@@ -3,8 +3,9 @@
 By conducting a two-phase online study on Prolific, we quantified the impact of various security and privacy improvements on Internet of Things (IoT) consumers' purchase behavior. Through designing an incentive-compatible experiment using the multiple price list (MPL) methodology, we captured participants' willingness to pay for transparency over security and privacy enhancements of smart devices. We constructed three regression models for each phase of our online study to quantify and explain participants' risk perception, willingness to purchase, and willingness to pay. This artifact provides participants' de-identified survey data that we used to construct these models and the analysis code in R and Stata that we used to build the regression models.
 
 ## Contents
-- ``data.csv``: Raw survey data
-- ``risk_purchase.r``, ``WTP.stata``: Analysis files
+- ``phase_one_survey_data.csv``, ``phase_two_survey_data.csv``: Raw, de-identified survey data
+- ``phase_one_analysis.R``, ``phase_two_analysis.R``: R analysis files
+- ``WTP.stata``: Stata analysis file
 
 ## Software Requirements
 - [RStudio](https://www.rstudio.com/products/rstudio/download/)
