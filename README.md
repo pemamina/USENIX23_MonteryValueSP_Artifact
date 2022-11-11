@@ -6,6 +6,8 @@ By conducting a two-phase online study on Prolific, we quantified the impact of 
 - ``phase_one_survey_data.csv``, ``phase_two_survey_data.csv``: Raw, de-identified survey data
 - ``phase_one_analysis.R``, ``phase_two_analysis.R``: R analysis files
 - ``phase_one_analysis_wtp_stata.do``, ``phase_two_analysis_wtp_stata.do``: Stata analysis files
+- ``phase_one_CLMM_output.txt``, ``phase_two_CLMM_output.txt``: The output of the CLMM models in phase one and phase two
+- ``phase_one_STATA_output.txt``, ``phase_two_STATA_output.txt``: The output of the STATA mixed interval regression models in phase one and phase two
 
 ## Software Requirements
 - [RStudio](https://www.rstudio.com/products/rstudio/download/)
