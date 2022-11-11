@@ -2,7 +2,7 @@
 library(ordinal)
 
 ## Loading the survey data
-dataset <- read.csv("phase_one_suvey_data.csv") 
+dataset <- read.csv("phase_one_survey_data.csv") 
 
 ## Specifying the dependent variables as ordinal categorical
 dataset$risk_perception_coded <- factor(dataset$risk_perception_coded, order = TRUE,
@@ -18,7 +18,7 @@ dataset$correct_definition_number <- factor(dataset$correct_definition_number)
 
 ## Setting the baseline for model independent variables
 dataset$mostProtective_leastProtective_pair <- as.factor(dataset$mostProtective_leastProtective_pair)
-dataset$smart_device <- as.factor(data$smart_device)
+dataset$smart_device <- as.factor(dataset$smart_device)
 
 dataset$mostProtective_leastProtective_pair <- relevel(dataset$mostProtective_leastProtective_pair, "main_personal")
 dataset$smart_device <- relevel(dataset$smart_device, "smoke")
