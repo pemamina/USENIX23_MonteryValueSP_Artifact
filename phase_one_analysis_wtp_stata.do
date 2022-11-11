@@ -7,4 +7,4 @@ encode mostprotective_leastprotective_p, generate(attribute_value) label(factor_
 encode smart_device, generate(device_value) label(device_lab)
 
 * We construct the mixed interval regression and set participant as the random effect.
-meintreg minimum_willingness_to_pay maximum_willingness_to_pay i.order_scenario i.correct_definition_number i.device_value i.attribute_value || participant
+meintreg minimum_willingness_to_pay maximum_willingness_to_pay i.order_scenario i.correct_definition_number i.device_value i.attribute_value || participant:
