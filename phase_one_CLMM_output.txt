@@ -1,0 +1,90 @@
+Cumulative Link Mixed Model fitted with the Laplace approximation
+
+formula: risk_perception_coded ~ mostProtective_leastProtective_pair +      smart_device + correct_definition_number + order_scenario +      (1 | participant)
+data:    dataset
+
+ link  threshold nobs logLik  AIC     niter      max.grad cond.H 
+ logit flexible  650  -774.79 1601.58 3226(9681) 2.86e-04 4.4e+02
+
+Random effects:
+ Groups      Name        Variance Std.Dev.
+ participant (Intercept) 0.5646   0.7514  
+Number of groups:  participant 130 
+
+Coefficients:
+                                                       Estimate Std. Error z value Pr(>|z|)    
+mostProtective_leastProtective_pairauto_manual         -1.01324    0.42124  -2.405 0.016156 *  
+mostProtective_leastProtective_pairauto_none           -2.13994    0.43573  -4.911 9.05e-07 ***
+mostProtective_leastProtective_pairdeidentify_identify -1.78340    0.42940  -4.153 3.28e-05 ***
+mostProtective_leastProtective_pairmain_money          -1.42273    0.43188  -3.294 0.000987 ***
+mostProtective_leastProtective_pairmanual_none         -1.30711    0.42612  -3.067 0.002159 ** 
+mostProtective_leastProtective_pairmanufact_third      -0.39870    0.40426  -0.986 0.324020    
+mostProtective_leastProtective_pairMFA_none            -2.32699    0.44329  -5.249 1.53e-07 ***
+mostProtective_leastProtective_pairMFA_password        -1.54308    0.43111  -3.579 0.000345 ***
+mostProtective_leastProtective_pairnone_deidentify     -1.00810    0.41532  -2.427 0.015212 *  
+mostProtective_leastProtective_pairnone_identify       -1.43664    0.43656  -3.291 0.000999 ***
+mostProtective_leastProtective_pairnone_manufact       -1.72744    0.42329  -4.081 4.48e-05 ***
+mostProtective_leastProtective_pairnone_third          -2.19831    0.44480  -4.942 7.72e-07 ***
+mostProtective_leastProtective_pairpassword_none       -2.38238    0.45711  -5.212 1.87e-07 ***
+mostProtective_leastProtective_pairpersonal_money       0.17076    0.41317   0.413 0.679401    
+smart_devicespeaker                                    -0.03120    0.20354  -0.153 0.878182    
+correct_definition_number1                              0.79351    0.35263   2.250 0.024430 *  
+correct_definition_number2                              0.91436    0.34128   2.679 0.007380 ** 
+order_scenario2                                        -0.05156    0.24335  -0.212 0.832210    
+order_scenario3                                         0.01434    0.24010   0.060 0.952362    
+order_scenario4                                        -0.65057    0.24972  -2.605 0.009181 ** 
+order_scenario5                                        -0.47627    0.25105  -1.897 0.057815 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Threshold coefficients:
+    Estimate Std. Error z value
+1|2  -1.1139     0.4808  -2.317
+2|3   0.1945     0.4755   0.409
+3|4   2.2553     0.4864   4.637
+4|5   3.2929     0.5191   6.344
+Cumulative Link Mixed Model fitted with the Laplace approximation
+
+formula: dataset$willingness_to_purchase_coded ~ mostProtective_leastProtective_pair +      smart_device + correct_definition_number + order_scenario +      (1 | participant)
+data:    dataset
+
+ link  threshold nobs logLik  AIC     niter      max.grad cond.H 
+ logit flexible  650  -782.77 1617.55 3234(9704) 1.62e-03 4.5e+02
+
+Random effects:
+ Groups      Name        Variance Std.Dev.
+ participant (Intercept) 0.3555   0.5962  
+Number of groups:  participant 130 
+
+Coefficients:
+                                                        Estimate Std. Error z value Pr(>|z|)    
+mostProtective_leastProtective_pairauto_manual          0.683371   0.407160   1.678 0.093272 .  
+mostProtective_leastProtective_pairauto_none            1.807243   0.420258   4.300 1.71e-05 ***
+mostProtective_leastProtective_pairdeidentify_identify  1.398900   0.424380   3.296 0.000980 ***
+mostProtective_leastProtective_pairmain_money           1.958744   0.453500   4.319 1.57e-05 ***
+mostProtective_leastProtective_pairmanual_none          1.724503   0.444978   3.875 0.000106 ***
+mostProtective_leastProtective_pairmanufact_third       0.719338   0.414298   1.736 0.082514 .  
+mostProtective_leastProtective_pairMFA_none             1.680963   0.426023   3.946 7.96e-05 ***
+mostProtective_leastProtective_pairMFA_password         0.023144   0.407388   0.057 0.954696    
+mostProtective_leastProtective_pairnone_deidentify     -0.863705   0.414914  -2.082 0.037375 *  
+mostProtective_leastProtective_pairnone_identify        0.442032   0.415214   1.065 0.287063    
+mostProtective_leastProtective_pairnone_manufact        1.017546   0.419640   2.425 0.015316 *  
+mostProtective_leastProtective_pairnone_third           1.859161   0.445141   4.177 2.96e-05 ***
+mostProtective_leastProtective_pairpassword_none        2.251697   0.458049   4.916 8.84e-07 ***
+mostProtective_leastProtective_pairpersonal_money       0.875765   0.401017   2.184 0.028972 *  
+smart_devicespeaker                                     0.003668   0.185001   0.020 0.984179    
+correct_definition_number1                             -0.256324   0.323275  -0.793 0.427836    
+correct_definition_number2                             -0.119478   0.314011  -0.380 0.703581    
+order_scenario2                                         0.149814   0.241934   0.619 0.535763    
+order_scenario3                                         0.239761   0.236374   1.014 0.310425    
+order_scenario4                                         0.465571   0.242342   1.921 0.054715 .  
+order_scenario5                                         0.137930   0.241739   0.571 0.568287    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Threshold coefficients:
+    Estimate Std. Error z value
+1|2 -2.68996    0.49078  -5.481
+2|3 -1.91659    0.46908  -4.086
+3|4  0.07616    0.45587   0.167
+4|5  1.42366    0.46123   3.087

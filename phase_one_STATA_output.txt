@@ -1,0 +1,88 @@
+. meintreg minimum_willingness_to_pay maximum_willingness_to_pay i.order_scenario i.correct_definition_number i.device_value i.attribute_value || participant:
+note: 3.device_value identifies no observations in the sample.
+note: 4.device_value identifies no observations in the sample.
+note: 5.device_value identifies no observations in the sample.
+note: 6.device_value identifies no observations in the sample.
+note: 7.device_value identifies no observations in the sample.
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -1692.1328  
+Iteration 1:   log likelihood = -1678.9013  
+Iteration 2:   log likelihood = -1678.7907  
+Iteration 3:   log likelihood = -1678.7907  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -1677.2568
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -1677.2568  
+Iteration 1:   log likelihood = -1667.5628  
+Iteration 2:   log likelihood =  -1661.459  
+Iteration 3:   log likelihood = -1661.4102  
+Iteration 4:   log likelihood = -1661.4101  
+
+Mixed-effects interval regression               Number of obs     =        644
+                                                   Uncensored     =        303
+                                                   Left-censored  =          0
+                                                   Right-censored =          0
+                                                   Interval-cens. =        341
+
+Group variable: participant                     Number of groups  =        130
+                                                Obs per group:
+                                                              min =          3
+                                                              avg =        5.0
+                                                              max =          5
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(21)     =     183.34
+Log likelihood = -1661.4101                     Prob > chi2       =     0.0000
+----------------------------------------------------------------------------------------------------------------------------------
+                                                                 | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-----------------------------------------------------------------+----------------------------------------------------------------
+                                                  order_scenario |
+                                                              2  |   2.356797   1.376339     1.71   0.087    -.3407788    5.054372
+                                                              3  |   1.988359   1.366168     1.46   0.146    -.6892816       4.666
+                                                              4  |   3.099599   1.370644     2.26   0.024     .4131869    5.786011
+                                                              5  |   2.646314   1.379298     1.92   0.055    -.0570598    5.349688
+                                                                 |
+                                       correct_definition_number |
+                                                              1  |   3.849622   1.799931     2.14   0.032     .3218225    7.377422
+                                                              2  |    3.98066   1.761945     2.26   0.024     .5273117    7.434008
+                                                                 |
+                                                    device_value |
+                                                        speaker  |  -1.300356   1.263107    -1.03   0.303    -3.775999    1.175288
+ keeping information better protected. ",5,25,2,2,23,Woman,"$20  |          0  (empty)
+                                                     000 to $39  |          0  (empty)
+                                                     000 to $69  |          0  (empty)
+                                                     000 to $99  |          0  (empty)
+                             000",Some college but no degree,No  |          0  (empty)
+                                                                 |
+                                                 attribute_value |
+                                                       MFA_none  |    12.4639   2.523841     4.94   0.000     7.517258    17.41053
+                                                   MFA_password  |  -2.125924    2.60131    -0.82   0.414    -7.224398     2.97255
+                                                    auto_manual  |   5.515716   2.549847     2.16   0.031     .5181083    10.51332
+                                                      auto_none  |   12.07242   2.461259     4.90   0.000     7.248441     16.8964
+                                            deidentify_identify  |   13.09071   2.580658     5.07   0.000     8.032713    18.14871
+                                                     main_money  |   11.53686   2.550627     4.52   0.000     6.537721      16.536
+                                                    manual_none  |   12.52949   2.561446     4.89   0.000     7.509148    17.54983
+                                                 manufact_third  |   11.46561   2.538684     4.52   0.000     6.489882    16.44134
+                                                none_deidentify  |  -7.935348   2.680785    -2.96   0.003    -13.18959   -2.681106
+                                                  none_identify  |   6.248442    2.55002     2.45   0.014     1.250494    11.24639
+                                                  none_manufact  |   6.820976   2.564342     2.66   0.008     1.794957    11.84699
+                                                     none_third  |   11.59787   2.571567     4.51   0.000      6.55769    16.63805
+                                                  password_none  |   12.49516   2.602939     4.80   0.000     7.393491    17.59682
+                                                 personal_money  |   9.313736   2.549763     3.65   0.000     4.316293    14.31118
+                                                                 |
+                                                           _cons |    .178278   2.739869     0.07   0.948    -5.191767    5.548323
+-----------------------------------------------------------------+----------------------------------------------------------------
+participant                                                      |
+                                                       var(_cons)|    27.6085   6.586958                      17.29655     44.0683
+-----------------------------------------------------------------+----------------------------------------------------------------
+                                var(e.minimum_willingness_to_pay)|   106.2264   7.185822                      93.03619    121.2867
+----------------------------------------------------------------------------------------------------------------------------------
+LR test vs. interval model: chibar2(01) = 34.76       Prob >= chibar2 = 0.0000
+

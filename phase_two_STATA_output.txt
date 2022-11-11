@@ -1,0 +1,91 @@
+. meintreg min max i.typeComparisonCat || participant:
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -443.37197  (not concave)
+Iteration 1:   log likelihood = -403.24282  
+Iteration 2:   log likelihood = -401.72001  
+Iteration 3:   log likelihood =  -400.5573  
+Iteration 4:   log likelihood = -400.55125  
+Iteration 5:   log likelihood = -400.55125  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -400.57483
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -400.57483  
+Iteration 1:   log likelihood = -400.55633  
+Iteration 2:   log likelihood = -400.55226  (backed up)
+Iteration 3:   log likelihood = -400.55176  (backed up)
+Iteration 4:   log likelihood = -400.55164  (backed up)
+Iteration 5:   log likelihood = -400.55161  (backed up)
+Iteration 6:   log likelihood = -400.55159  (backed up)
+Iteration 7:   log likelihood = -400.55159  (backed up)
+Iteration 8:   log likelihood = -400.55159  (backed up)
+Iteration 9:   log likelihood = -400.55159  (backed up)
+Iteration 10:  log likelihood = -400.55159  (backed up)
+Iteration 11:  log likelihood = -400.55159  (backed up)
+Iteration 12:  log likelihood = -400.55159  (backed up)
+Iteration 13:  log likelihood = -400.55159  (not concave)
+Iteration 14:  log likelihood = -400.55159  (backed up)
+Iteration 15:  log likelihood = -400.55159  (not concave)
+Iteration 16:  log likelihood = -400.55159  (not concave)
+Iteration 17:  log likelihood = -400.55159  (not concave)
+Iteration 18:  log likelihood = -400.55159  (backed up)
+Iteration 19:  log likelihood = -400.55159  (backed up)
+Iteration 20:  log likelihood = -400.55159  (backed up)
+Iteration 21:  log likelihood = -400.55159  (backed up)
+Iteration 22:  log likelihood = -400.55159  (backed up)
+Iteration 23:  log likelihood = -400.55159  (backed up)
+Iteration 24:  log likelihood = -400.55159  (not concave)
+Iteration 25:  log likelihood = -400.55159  (backed up)
+Iteration 26:  log likelihood = -400.55159  (backed up)
+Iteration 27:  log likelihood = -400.55159  (not concave)
+Iteration 28:  log likelihood = -400.55159  (not concave)
+Iteration 29:  log likelihood = -400.55159  (not concave)
+Iteration 30:  log likelihood = -400.55159  (backed up)
+Iteration 31:  log likelihood = -400.55159  (backed up)
+Iteration 32:  log likelihood = -400.55159  (backed up)
+Iteration 33:  log likelihood = -400.55159  (backed up)
+Iteration 34:  log likelihood = -400.55159  (backed up)
+Iteration 35:  log likelihood = -400.55159  (not concave)
+Iteration 36:  log likelihood = -400.55159  (not concave)
+Iteration 37:  log likelihood = -400.55158  
+Iteration 38:  log likelihood = -400.55144  
+Iteration 39:  log likelihood = -400.55125  
+Iteration 40:  log likelihood = -400.55125  (not concave)
+Iteration 41:  log likelihood = -400.55125  (backed up)
+
+Mixed-effects interval regression               Number of obs     =        150
+                                                   Uncensored     =         66
+                                                   Left-censored  =          0
+                                                   Right-censored =          0
+                                                   Interval-cens. =         84
+
+Group variable: participant                     Number of groups  =         50
+                                                Obs per group:
+                                                              min =          3
+                                                              avg =        3.0
+                                                              max =          3
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(2)      =     401.41
+Log likelihood = -400.55125                     Prob > chi2       =     0.0000
+-----------------------------------------------------------------------------------
+                  | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+------------------+----------------------------------------------------------------
+typeComparisonCat |
+          X vs Y  |   56.45906   3.315087    17.03   0.000     49.96161    62.95651
+          X vs Z  |   61.18633   3.314878    18.46   0.000     54.68929    67.68337
+                  |
+            _cons |  -22.83486   2.517225    -9.07   0.000    -27.76853   -17.90119
+------------------+----------------------------------------------------------------
+participant       |
+        var(_cons)|   4.34e-31   4.03e-15                             .           .
+------------------+----------------------------------------------------------------
+        var(e.min)|   225.5276   28.55565                      175.9637    289.0523
+-----------------------------------------------------------------------------------
+LR test vs. interval model: chi2(0) = 0.00                Prob > chi2 =      .
