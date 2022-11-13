@@ -1,0 +1,651 @@
+﻿participant,smart_device,security_privacy_attribute,most_protective_value,least_protective_value,mostProtective_leastProtective_pair,willingness_to_purchase,willingness_to_purchase_coded,risk_perception,risk_perception_coded,minimum_willingness_to_pay,maximum_willingness_to_pay,order_scenario,correct_definition_number,Age,Gender,Income,Education,Background in Technology
+1,speaker,security update,update_manual,update_none,manual_none,slightly increases,4,strongly increases,5,25,25,2,2,22,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes
+1,speaker,access control,access_mfa,access_none,MFA_none,slightly increases,4,slightly decreases,2,0,0,4,1,22,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes
+1,speaker,purpose,purpose_personal,purpose_money,personal_money,no impact,3,slightly increases,4,25,25,3,1,22,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes
+1,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,slightly increases,4,slightly decreases,2,25,25,1,2,22,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes
+1,speaker,data sharing,shared_none,shared_third,none_third,slightly increases,4,strongly decreases,1,25,25,5,2,22,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes
+2,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,slightly decreases,2,25,25,4,2,32,Woman,"$60,000 to $69,999",Bachelor's degree in college (4-year),No
+2,speaker,access control,access_mfa,access_none,MFA_none,slightly increases,4,slightly decreases,2,5,10,1,1,32,Woman,"$60,000 to $69,999",Bachelor's degree in college (4-year),No
+2,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,slightly decreases,2,25,25,3,1,32,Woman,"$60,000 to $69,999",Bachelor's degree in college (4-year),No
+2,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,slightly decreases,2,-15,-10,2,1,32,Woman,"$60,000 to $69,999",Bachelor's degree in college (4-year),No
+2,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,slightly decreases,2,25,25,5,2,32,Woman,"$60,000 to $69,999",Bachelor's degree in college (4-year),No
+3,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,slightly decreases,2,10,25,2,2,32,Man,"$50,000 to $59,999",Master's degree,Yes
+3,speaker,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,15,25,1,1,32,Man,"$50,000 to $59,999",Master's degree,Yes
+3,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,no impact,3,25,25,4,1,32,Man,"$50,000 to $59,999",Master's degree,Yes
+3,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,no impact,3,-25,5,3,0,32,Man,"$50,000 to $59,999",Master's degree,Yes
+3,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,5,0,32,Man,"$50,000 to $59,999",Master's degree,Yes
+4,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,slightly decreases,2,25,25,4,2,27,Woman,"$50,000 to $59,999",Master's degree,No
+4,speaker,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,3,1,27,Woman,"$50,000 to $59,999",Master's degree,No
+4,speaker,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,slightly decreases,2,0,5,1,2,27,Woman,"$50,000 to $59,999",Master's degree,No
+4,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,slightly decreases,2,-5,25,2,1,27,Woman,"$50,000 to $59,999",Master's degree,No
+4,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,5,1,27,Woman,"$50,000 to $59,999",Master's degree,No
+5,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,4,1,22,Man,Prefer not to answer,High school graduate (high school diploma or equivalent including GED),Yes
+5,speaker,access control,access_password,access_none,password_none,strongly increases,5,slightly decreases,2,25,25,5,2,22,Man,Prefer not to answer,High school graduate (high school diploma or equivalent including GED),Yes
+5,speaker,purpose,purpose_main,purpose_personal,main_personal,no impact,3,no impact,3,-25,25,3,2,22,Man,Prefer not to answer,High school graduate (high school diploma or equivalent including GED),Yes
+5,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,slightly decreases,2,15,20,1,2,22,Man,Prefer not to answer,High school graduate (high school diploma or equivalent including GED),Yes
+5,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,15,25,2,2,22,Man,Prefer not to answer,High school graduate (high school diploma or equivalent including GED),Yes
+6,speaker,security update,update_auto,update_manual,auto_manual,slightly increases,4,slightly decreases,2,0,5,1,2,36,Woman,"$40,000 to $49,999",Some college but no degree,No
+6,speaker,access control,access_mfa,access_password,MFA_password,no impact,3,slightly decreases,2,0,5,2,2,36,Woman,"$40,000 to $49,999",Some college but no degree,No
+6,speaker,purpose,purpose_main,purpose_personal,main_personal,no impact,3,not sure,3,0,5,3,1,36,Woman,"$40,000 to $49,999",Some college but no degree,No
+6,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,strongly decreases,1,25,25,4,0,36,Woman,"$40,000 to $49,999",Some college but no degree,No
+6,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,25,25,5,2,36,Woman,"$40,000 to $49,999",Some college but no degree,No
+7,speaker,security update,update_auto,update_manual,auto_manual,slightly increases,4,slightly decreases,2,10,15,3,2,51,Woman,"$150,000 or more",Associate degree in college (2-year),No
+7,speaker,access control,access_mfa,access_password,MFA_password,no impact,3,slightly decreases,2,-10,-5,4,1,51,Woman,"$150,000 or more",Associate degree in college (2-year),No
+7,speaker,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,no impact,3,20,25,1,2,51,Woman,"$150,000 or more",Associate degree in college (2-year),No
+7,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,slightly decreases,2,15,25,2,2,51,Woman,"$150,000 or more",Associate degree in college (2-year),No
+7,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,slightly decreases,2,-5,25,5,2,51,Woman,"$150,000 or more",Associate degree in college (2-year),No
+8,speaker,security update,update_manual,update_none,manual_none,slightly increases,4,strongly decreases,1,0,0,4,2,19,Non-binary,"$90,000 to $99,999",Some college but no degree,No
+8,speaker,access control,access_mfa,access_password,MFA_password,slightly decreases,2,strongly decreases,1,0,0,5,2,19,Non-binary,"$90,000 to $99,999",Some college but no degree,No
+8,speaker,purpose,purpose_main,purpose_personal,main_personal,strongly increases,5,strongly decreases,1,0,5,3,2,19,Non-binary,"$90,000 to $99,999",Some college but no degree,No
+8,speaker,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,strongly decreases,1,0,25,1,0,19,Non-binary,"$90,000 to $99,999",Some college but no degree,No
+8,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,2,2,19,Non-binary,"$90,000 to $99,999",Some college but no degree,No
+9,speaker,security update,update_auto,update_manual,auto_manual,strongly increases,5,slightly decreases,2,25,25,3,2,35,Woman,"$100,000 to $149,999",Master's degree,Yes
+9,speaker,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,1,1,35,Woman,"$100,000 to $149,999",Master's degree,Yes
+9,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,strongly decreases,1,0,0,4,1,35,Woman,"$100,000 to $149,999",Master's degree,Yes
+9,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly decreases,1,slightly decreases,2,-10,0,2,0,35,Woman,"$100,000 to $149,999",Master's degree,Yes
+9,speaker,data sharing,shared_none,shared_third,none_third,strongly decreases,1,no impact,3,-20,-15,5,2,35,Woman,"$100,000 to $149,999",Master's degree,Yes
+10,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,3,1,31,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes
+10,speaker,access control,access_password,access_none,password_none,strongly increases,5,slightly decreases,2,25,25,5,2,31,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes
+10,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,slightly decreases,2,25,25,1,1,31,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes
+10,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,strongly decreases,1,-25,25,4,2,31,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes
+10,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,strongly decreases,1,10,25,2,1,31,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes
+11,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,2,2,28,Woman,"$60,000 to $69,999",Bachelor's degree in college (4-year),No
+11,speaker,access control,access_mfa,access_password,MFA_password,strongly decreases,1,strongly decreases,1,-10,-5,1,2,28,Woman,"$60,000 to $69,999",Bachelor's degree in college (4-year),No
+11,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,slightly decreases,2,5,10,4,2,28,Woman,"$60,000 to $69,999",Bachelor's degree in college (4-year),No
+11,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,25,25,3,0,28,Woman,"$60,000 to $69,999",Bachelor's degree in college (4-year),No
+11,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,strongly decreases,1,10,15,5,2,28,Woman,"$60,000 to $69,999",Bachelor's degree in college (4-year),No
+12,speaker,security update,update_manual,update_none,manual_none,no impact,3,no impact,3,-25,25,2,2,30,Woman,"$20,000 to $29,999",Associate degree in college (2-year),No
+12,speaker,access control,access_mfa,access_password,MFA_password,no impact,3,no impact,3,-25,-25,1,2,30,Woman,"$20,000 to $29,999",Associate degree in college (2-year),No
+12,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,4,2,30,Woman,"$20,000 to $29,999",Associate degree in college (2-year),No
+12,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,slightly decreases,2,0,25,5,0,30,Woman,"$20,000 to $29,999",Associate degree in college (2-year),No
+12,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,no impact,3,0,25,3,2,30,Woman,"$20,000 to $29,999",Associate degree in college (2-year),No
+13,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,slightly decreases,2,10,20,3,2,44,Man,"$90,000 to $99,999",Some college but no degree,Yes
+13,speaker,access control,access_password,access_none,password_none,slightly increases,4,strongly decreases,1,5,15,2,1,44,Man,"$90,000 to $99,999",Some college but no degree,Yes
+13,speaker,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,slightly decreases,2,10,20,1,2,44,Man,"$90,000 to $99,999",Some college but no degree,Yes
+13,speaker,cloud storage,cloud_none,cloud_identify,none_identify,slightly increases,4,strongly decreases,1,10,15,4,0,44,Man,"$90,000 to $99,999",Some college but no degree,Yes
+13,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,5,15,5,2,44,Man,"$90,000 to $99,999",Some college but no degree,Yes
+14,speaker,security update,update_auto,update_none,auto_none,slightly increases,4,slightly decreases,2,25,25,1,2,31,Man,"$20,000 to $29,999",Master's degree,Yes
+14,speaker,access control,access_password,access_none,password_none,no impact,3,slightly decreases,2,-15,25,3,1,31,Man,"$20,000 to $29,999",Master's degree,Yes
+14,speaker,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,slightly decreases,2,15,20,5,2,31,Man,"$20,000 to $29,999",Master's degree,Yes
+14,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,25,25,4,2,31,Man,"$20,000 to $29,999",Master's degree,Yes
+14,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,slightly decreases,2,25,25,2,2,31,Man,"$20,000 to $29,999",Master's degree,Yes
+15,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,slightly decreases,2,25,25,2,2,25,Man,"$150,000 or more",Bachelor's degree in college (4-year),No
+15,speaker,access control,access_mfa,access_none,MFA_none,no impact,3,strongly decreases,1,0,25,4,1,25,Man,"$150,000 or more",Bachelor's degree in college (4-year),No
+15,speaker,purpose,purpose_main,purpose_money,main_money,slightly increases,4,strongly decreases,1,25,25,5,2,25,Man,"$150,000 or more",Bachelor's degree in college (4-year),No
+15,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,slightly decreases,2,not sure,3,-25,-25,1,1,25,Man,"$150,000 or more",Bachelor's degree in college (4-year),No
+15,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,slightly increases,4,slightly decreases,2,25,25,3,1,25,Man,"$150,000 or more",Bachelor's degree in college (4-year),No
+16,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,15,25,4,2,26,Woman,"$30,000 to $39,999",Some college but no degree,No
+16,speaker,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,5,15,1,0,26,Woman,"$30,000 to $39,999",Some college but no degree,No
+16,speaker,purpose,purpose_main,purpose_personal,main_personal,slightly decreases,2,strongly decreases,1,-25,-5,2,2,26,Woman,"$30,000 to $39,999",Some college but no degree,No
+16,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,slightly decreases,2,5,25,3,2,26,Woman,"$30,000 to $39,999",Some college but no degree,No
+16,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,20,25,5,2,26,Woman,"$30,000 to $39,999",Some college but no degree,No
+17,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,2,2,73,Man,"$150,000 or more",Bachelor's degree in college (4-year),No
+17,speaker,access control,access_mfa,access_password,MFA_password,strongly increases,5,strongly decreases,1,25,25,1,2,73,Man,"$150,000 or more",Bachelor's degree in college (4-year),No
+17,speaker,purpose,purpose_main,purpose_personal,main_personal,no impact,3,no impact,3,0,5,3,0,73,Man,"$150,000 or more",Bachelor's degree in college (4-year),No
+17,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly increases,5,strongly decreases,1,25,25,4,2,73,Man,"$150,000 or more",Bachelor's degree in college (4-year),No
+17,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,strongly decreases,1,25,25,5,2,73,Man,"$150,000 or more",Bachelor's degree in college (4-year),No
+18,speaker,security update,update_auto,update_manual,auto_manual,slightly decreases,2,strongly increases,5,-25,-15,3,2,27,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+18,speaker,access control,access_mfa,access_password,MFA_password,no impact,3,slightly decreases,2,-25,0,1,2,27,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+18,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,5,1,27,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+18,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,25,25,4,0,27,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+18,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,slightly decreases,2,slightly decreases,2,-15,-10,2,0,27,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+19,speaker,security update,update_manual,update_none,manual_none,slightly increases,4,slightly increases,4,25,25,5,2,44,Man,"$50,000 to $59,999",Some college but no degree,No
+19,speaker,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,1,1,44,Man,"$50,000 to $59,999",Some college but no degree,No
+19,speaker,purpose,purpose_personal,purpose_money,personal_money,no impact,3,no impact,3,25,25,3,1,44,Man,"$50,000 to $59,999",Some college but no degree,No
+19,speaker,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,no impact,3,-25,25,2,1,44,Man,"$50,000 to $59,999",Some college but no degree,No
+19,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,slightly decreases,2,slightly decreases,2,0,0,4,2,44,Man,"$50,000 to $59,999",Some college but no degree,No
+20,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,slightly increases,4,10,20,1,2,36,Man,"$50,000 to $59,999",Master's degree,No
+20,speaker,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,20,25,3,2,36,Man,"$50,000 to $59,999",Master's degree,No
+20,speaker,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,slightly decreases,2,15,25,4,1,36,Man,"$50,000 to $59,999",Master's degree,No
+20,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,slightly decreases,2,15,25,2,2,36,Man,"$50,000 to $59,999",Master's degree,No
+20,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,15,25,5,2,36,Man,"$50,000 to $59,999",Master's degree,No
+21,speaker,security update,update_auto,update_manual,auto_manual,strongly increases,5,strongly decreases,1,0,5,3,1,26,Man,"$50,000 to $59,999",Bachelor's degree in college (4-year),Yes
+21,speaker,access control,access_mfa,access_password,MFA_password,strongly increases,5,strongly decreases,1,0,5,5,2,26,Man,"$50,000 to $59,999",Bachelor's degree in college (4-year),Yes
+21,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,strongly increases,5,0,5,2,2,26,Man,"$50,000 to $59,999",Bachelor's degree in college (4-year),Yes
+21,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,0,5,4,2,26,Man,"$50,000 to $59,999",Bachelor's degree in college (4-year),Yes
+21,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly decreases,1,strongly increases,5,0,0,1,2,26,Man,"$50,000 to $59,999",Bachelor's degree in college (4-year),Yes
+22,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,4,2,31,Man,"$10,000 to $19,999",Some college but no degree,Yes
+22,speaker,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,5,2,31,Man,"$10,000 to $19,999",Some college but no degree,Yes
+22,speaker,purpose,purpose_main,purpose_money,main_money,slightly increases,4,slightly decreases,2,25,25,2,2,31,Man,"$10,000 to $19,999",Some college but no degree,Yes
+22,speaker,cloud storage,cloud_none,cloud_identify,none_identify,slightly increases,4,slightly decreases,2,25,25,3,1,31,Man,"$10,000 to $19,999",Some college but no degree,Yes
+22,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,1,2,31,Man,"$10,000 to $19,999",Some college but no degree,Yes
+23,speaker,security update,update_auto,update_none,auto_none,slightly increases,4,strongly decreases,1,25,25,4,2,35,Woman,"$50,000 to $59,999",Some college but no degree,No
+23,speaker,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,5,1,35,Woman,"$50,000 to $59,999",Some college but no degree,No
+23,speaker,purpose,purpose_main,purpose_personal,main_personal,no impact,3,no impact,3,-25,25,3,2,35,Woman,"$50,000 to $59,999",Some college but no degree,No
+23,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,slightly decreases,2,-25,25,2,1,35,Woman,"$50,000 to $59,999",Some college but no degree,No
+23,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,no impact,3,-25,0,1,1,35,Woman,"$50,000 to $59,999",Some college but no degree,No
+24,speaker,security update,update_auto,update_manual,auto_manual,strongly decreases,1,strongly decreases,1,-25,-25,5,2,27,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+24,speaker,access control,access_password,access_none,password_none,no impact,3,no impact,3,5,20,1,2,27,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+24,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,3,1,27,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+24,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,slightly increases,4,slightly decreases,2,5,20,2,2,27,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+24,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly increases,5,25,25,4,2,27,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+25,speaker,security update,update_auto,update_manual,auto_manual,no impact,3,not sure,3,-5,25,3,1,35,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+25,speaker,access control,access_mfa,access_none,MFA_none,slightly increases,4,slightly decreases,2,5,15,1,1,35,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+25,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,5,2,35,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+25,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly increases,5,strongly decreases,1,10,20,4,2,35,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+25,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,strongly decreases,1,25,25,2,2,35,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+26,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,15,20,4,2,51,Man,"$100,000 to $149,999",Master's degree,No
+26,speaker,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,20,25,1,1,51,Man,"$100,000 to $149,999",Master's degree,No
+26,speaker,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,slightly increases,4,0,0,5,2,51,Man,"$100,000 to $149,999",Master's degree,No
+26,speaker,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,strongly decreases,1,0,25,2,1,51,Man,"$100,000 to $149,999",Master's degree,No
+26,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,0,0,3,2,51,Man,"$100,000 to $149,999",Master's degree,No
+27,speaker,security update,update_auto,update_none,auto_none,slightly increases,4,strongly decreases,1,10,20,4,2,28,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+27,speaker,access control,access_password,access_none,password_none,slightly increases,4,slightly decreases,2,0,5,5,2,28,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+27,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,no impact,3,10,15,2,2,28,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+27,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,10,20,3,2,28,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+27,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,slightly decreases,2,5,10,1,2,28,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+28,speaker,security update,update_auto,update_manual,auto_manual,slightly increases,4,slightly decreases,2,5,10,1,1,28,Man,"$80,000 to $89,999",Bachelor's degree in college (4-year),No
+28,speaker,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,5,10,2,1,28,Man,"$80,000 to $89,999",Bachelor's degree in college (4-year),No
+28,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,slightly decreases,2,0,0,5,1,28,Man,"$80,000 to $89,999",Bachelor's degree in college (4-year),No
+28,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly increases,5,strongly decreases,1,0,0,4,1,28,Man,"$80,000 to $89,999",Bachelor's degree in college (4-year),No
+28,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,no impact,3,0,25,3,2,28,Man,"$80,000 to $89,999",Bachelor's degree in college (4-year),No
+29,speaker,security update,update_auto,update_manual,auto_manual,no impact,3,no impact,3,-5,25,4,1,37,Man,"$10,000 to $19,999",Some college but no degree,Yes
+29,speaker,access control,access_mfa,access_none,MFA_none,no impact,3,no impact,3,-25,5,5,2,37,Man,"$10,000 to $19,999",Some college but no degree,Yes
+29,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,slightly increases,4,0,5,3,2,37,Man,"$10,000 to $19,999",Some college but no degree,Yes
+29,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly decreases,1,0,5,2,1,37,Man,"$10,000 to $19,999",Some college but no degree,Yes
+29,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,slightly increases,4,slightly increases,4,0,5,1,2,37,Man,"$10,000 to $19,999",Some college but no degree,Yes
+30,speaker,security update,update_manual,update_none,manual_none,slightly increases,4,no impact,3,0,5,1,1,37,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No
+30,speaker,access control,access_mfa,access_password,MFA_password,strongly increases,5,strongly decreases,1,0,0,4,1,37,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No
+30,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,not sure,3,0,0,2,2,37,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No
+30,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,no impact,3,not sure,3,0,5,5,0,37,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No
+30,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,not sure,3,0,0,3,2,37,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No
+31,speaker,security update,update_auto,update_none,auto_none,slightly increases,4,strongly decreases,1,15,20,1,2,32,Woman,"$30,000 to $39,999",Master's degree,No
+31,speaker,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,5,2,32,Woman,"$30,000 to $39,999",Master's degree,No
+31,speaker,purpose,purpose_main,purpose_personal,main_personal,strongly increases,5,no impact,3,15,20,2,2,32,Woman,"$30,000 to $39,999",Master's degree,No
+31,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,25,25,4,2,32,Woman,"$30,000 to $39,999",Master's degree,No
+31,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,25,25,3,2,32,Woman,"$30,000 to $39,999",Master's degree,No
+32,speaker,security update,update_auto,update_manual,auto_manual,no impact,3,slightly decreases,2,-25,5,3,2,38,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+32,speaker,access control,access_mfa,access_password,MFA_password,no impact,3,slightly decreases,2,-5,25,1,2,38,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+32,speaker,purpose,purpose_main,purpose_money,main_money,slightly increases,4,slightly decreases,2,0,5,5,2,38,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+32,speaker,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,no impact,3,-5,25,4,1,38,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+32,speaker,data sharing,shared_none,shared_third,none_third,no impact,3,no impact,3,-5,25,2,2,38,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+33,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,3,2,24,Woman,"$50,000 to $59,999",Bachelor's degree in college (4-year),No
+33,speaker,access control,access_mfa,access_none,MFA_none,slightly increases,4,slightly decreases,2,25,25,1,1,24,Woman,"$50,000 to $59,999",Bachelor's degree in college (4-year),No
+33,speaker,purpose,purpose_main,purpose_personal,main_personal,no impact,3,no impact,3,25,25,2,2,24,Woman,"$50,000 to $59,999",Bachelor's degree in college (4-year),No
+33,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly decreases,1,25,25,4,1,24,Woman,"$50,000 to $59,999",Bachelor's degree in college (4-year),No
+33,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,not sure,3,25,25,5,2,24,Woman,"$50,000 to $59,999",Bachelor's degree in college (4-year),No
+34,speaker,security update,update_auto,update_manual,auto_manual,strongly increases,5,strongly decreases,1,25,25,3,0,62,Woman,"Less than $10,000",Some college but no degree,No
+34,speaker,access control,access_mfa,access_password,MFA_password,strongly increases,5,strongly decreases,1,-25,-25,5,0,62,Woman,"Less than $10,000",Some college but no degree,No
+34,speaker,purpose,purpose_main,purpose_money,main_money,no impact,3,strongly decreases,1,-25,0,1,0,62,Woman,"Less than $10,000",Some college but no degree,No
+34,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,slightly increases,4,strongly decreases,1,-25,-25,2,0,62,Woman,"Less than $10,000",Some college but no degree,No
+34,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,strongly decreases,1,25,25,4,0,62,Woman,"Less than $10,000",Some college but no degree,No
+35,speaker,security update,update_auto,update_none,auto_none,slightly increases,4,slightly decreases,2,5,15,2,2,34,Woman,"$150,000 or more",Master's degree,No
+35,speaker,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,15,25,5,1,34,Woman,"$150,000 or more",Master's degree,No
+35,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,slightly decreases,2,5,15,1,2,34,Woman,"$150,000 or more",Master's degree,No
+35,speaker,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,no impact,3,0,10,4,2,34,Woman,"$150,000 or more",Master's degree,No
+35,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,slightly decreases,2,-5,25,3,2,34,Woman,"$150,000 or more",Master's degree,No
+36,speaker,security update,update_auto,update_manual,auto_manual,strongly increases,5,strongly decreases,1,25,25,4,2,56,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+36,speaker,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,2,2,56,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+36,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,3,1,56,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+36,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly decreases,1,strongly decreases,1,-25,-25,5,0,56,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+36,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,no impact,3,0,0,1,1,56,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+37,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,5,2,20,Man,"$10,000 to $19,999",High school graduate (high school diploma or equivalent including GED),Yes
+37,speaker,access control,access_mfa,access_password,MFA_password,strongly increases,5,strongly increases,5,15,25,2,2,20,Man,"$10,000 to $19,999",High school graduate (high school diploma or equivalent including GED),Yes
+37,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,slightly increases,4,25,25,1,2,20,Man,"$10,000 to $19,999",High school graduate (high school diploma or equivalent including GED),Yes
+37,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly decreases,1,25,25,4,1,20,Man,"$10,000 to $19,999",High school graduate (high school diploma or equivalent including GED),Yes
+37,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,3,1,20,Man,"$10,000 to $19,999",High school graduate (high school diploma or equivalent including GED),Yes
+38,speaker,security update,update_auto,update_none,auto_none,slightly increases,4,slightly decreases,2,25,25,5,2,18,Man,Prefer not to answer,Some college but no degree,No
+38,speaker,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,4,0,18,Man,Prefer not to answer,Some college but no degree,No
+38,speaker,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,slightly decreases,2,25,25,2,2,18,Man,Prefer not to answer,Some college but no degree,No
+38,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,strongly decreases,1,25,25,1,2,18,Man,Prefer not to answer,Some college but no degree,No
+38,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,no impact,3,-25,25,3,2,18,Man,Prefer not to answer,Some college but no degree,No
+39,speaker,security update,update_auto,update_manual,auto_manual,slightly decreases,2,strongly decreases,1,-25,-25,1,2,28,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),Yes
+39,speaker,access control,access_mfa,access_password,MFA_password,no impact,3,strongly decreases,1,25,25,4,2,28,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),Yes
+39,speaker,purpose,purpose_main,purpose_money,main_money,slightly increases,4,slightly increases,4,25,25,3,2,28,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),Yes
+39,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,strongly decreases,1,-25,5,2,2,28,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),Yes
+39,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,5,2,28,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),Yes
+40,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,0,5,1,0,28,Man,"$90,000 to $99,999",Bachelor's degree in college (4-year),Yes
+40,speaker,access control,access_mfa,access_password,MFA_password,strongly increases,5,strongly decreases,1,0,5,5,1,28,Man,"$90,000 to $99,999",Bachelor's degree in college (4-year),Yes
+40,speaker,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,strongly decreases,1,0,5,4,1,28,Man,"$90,000 to $99,999",Bachelor's degree in college (4-year),Yes
+40,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,slightly decreases,2,0,5,3,1,28,Man,"$90,000 to $99,999",Bachelor's degree in college (4-year),Yes
+40,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,slightly decreases,2,slightly decreases,2,0,0,2,2,28,Man,"$90,000 to $99,999",Bachelor's degree in college (4-year),Yes
+41,speaker,security update,update_auto,update_none,auto_none,strongly decreases,1,not sure,3,-10,-5,5,1,30,Man,"$150,000 or more",Bachelor's degree in college (4-year),Yes
+41,speaker,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,5,10,2,0,30,Man,"$150,000 or more",Bachelor's degree in college (4-year),Yes
+41,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,not sure,3,5,10,1,2,30,Man,"$150,000 or more",Bachelor's degree in college (4-year),Yes
+41,speaker,cloud storage,cloud_none,cloud_identify,none_identify,slightly increases,4,strongly decreases,1,5,10,4,1,30,Man,"$150,000 or more",Bachelor's degree in college (4-year),Yes
+41,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,5,10,3,2,30,Man,"$150,000 or more",Bachelor's degree in college (4-year),Yes
+42,speaker,security update,update_auto,update_manual,auto_manual,strongly increases,5,strongly decreases,1,25,25,2,1,25,Woman,"$150,000 or more",Master's degree,Yes
+42,speaker,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,5,2,25,Woman,"$150,000 or more",Master's degree,Yes
+42,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,slightly decreases,2,15,25,4,1,25,Woman,"$150,000 or more",Master's degree,Yes
+42,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,strongly decreases,1,15,20,1,0,25,Woman,"$150,000 or more",Master's degree,Yes
+42,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,3,2,25,Woman,"$150,000 or more",Master's degree,Yes
+43,speaker,security update,update_manual,update_none,manual_none,strongly decreases,1,no impact,3,-10,0,3,2,23,Man,"$30,000 to $39,999",Some college but no degree,Yes
+43,speaker,access control,access_mfa,access_none,MFA_none,no impact,3,slightly increases,4,-15,25,1,1,23,Man,"$30,000 to $39,999",Some college but no degree,Yes
+43,speaker,purpose,purpose_personal,purpose_money,personal_money,no impact,3,no impact,3,-10,25,5,0,23,Man,"$30,000 to $39,999",Some college but no degree,Yes
+43,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly decreases,1,slightly decreases,2,-10,0,2,1,23,Man,"$30,000 to $39,999",Some college but no degree,Yes
+43,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,0,10,4,0,23,Man,"$30,000 to $39,999",Some college but no degree,Yes
+44,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,slightly increases,4,15,25,3,2,27,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+44,speaker,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,2,1,27,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+44,speaker,purpose,purpose_main,purpose_money,main_money,slightly increases,4,strongly decreases,1,25,25,5,2,27,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+44,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,no impact,3,slightly decreases,2,-5,25,4,2,27,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+44,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,no impact,3,25,25,1,2,27,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+45,speaker,security update,update_auto,update_none,auto_none,slightly increases,4,not sure,3,0,0,3,2,18,Man,"$30,000 to $39,999",Some college but no degree,Yes
+45,speaker,access control,access_mfa,access_none,MFA_none,slightly increases,4,not sure,3,0,0,4,1,18,Man,"$30,000 to $39,999",Some college but no degree,Yes
+45,speaker,purpose,purpose_main,purpose_money,main_money,slightly decreases,2,not sure,3,0,0,5,2,18,Man,"$30,000 to $39,999",Some college but no degree,Yes
+45,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,no impact,3,not sure,3,-25,0,2,2,18,Man,"$30,000 to $39,999",Some college but no degree,Yes
+45,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,not sure,3,0,5,1,2,18,Man,"$30,000 to $39,999",Some college but no degree,Yes
+46,speaker,security update,update_auto,update_manual,auto_manual,slightly increases,4,no impact,3,5,15,2,2,46,Woman,"$50,000 to $59,999",Some college but no degree,No
+46,speaker,access control,access_password,access_none,password_none,slightly increases,4,not sure,3,0,5,1,1,46,Woman,"$50,000 to $59,999",Some college but no degree,No
+46,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,15,20,4,0,46,Woman,"$50,000 to $59,999",Some college but no degree,No
+46,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,10,20,3,0,46,Woman,"$50,000 to $59,999",Some college but no degree,No
+46,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,slightly decreases,2,10,20,5,1,46,Woman,"$50,000 to $59,999",Some college but no degree,No
+47,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,2,2,28,Man,"Less than $10,000",Bachelor's degree in college (4-year),Yes
+47,speaker,access control,access_password,access_none,password_none,slightly increases,4,strongly decreases,1,0,5,1,1,28,Man,"Less than $10,000",Bachelor's degree in college (4-year),Yes
+47,speaker,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,strongly increases,5,5,25,5,2,28,Man,"Less than $10,000",Bachelor's degree in college (4-year),Yes
+47,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly decreases,1,25,25,3,1,28,Man,"Less than $10,000",Bachelor's degree in college (4-year),Yes
+47,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,strongly increases,5,25,25,4,2,28,Man,"Less than $10,000",Bachelor's degree in college (4-year),Yes
+48,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,0,5,4,2,25,Woman,"$10,000 to $19,999",Bachelor's degree in college (4-year),No
+48,speaker,access control,access_mfa,access_password,MFA_password,no impact,3,strongly decreases,1,-25,5,1,2,25,Woman,"$10,000 to $19,999",Bachelor's degree in college (4-year),No
+48,speaker,purpose,purpose_main,purpose_personal,main_personal,strongly increases,5,no impact,3,0,5,3,2,25,Woman,"$10,000 to $19,999",Bachelor's degree in college (4-year),No
+48,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,strongly increases,5,-25,5,2,2,25,Woman,"$10,000 to $19,999",Bachelor's degree in college (4-year),No
+48,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,5,0,25,Woman,"$10,000 to $19,999",Bachelor's degree in college (4-year),No
+49,speaker,security update,update_manual,update_none,manual_none,no impact,3,not sure,3,25,25,5,1,69,Man,Prefer not to answer,Master's degree,Yes
+49,speaker,access control,access_mfa,access_password,MFA_password,no impact,3,not sure,3,0,25,1,1,69,Man,Prefer not to answer,Master's degree,Yes
+49,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,3,1,69,Man,Prefer not to answer,Master's degree,Yes
+49,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,25,25,4,0,69,Man,Prefer not to answer,Master's degree,Yes
+49,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,no impact,3,0,25,2,0,69,Man,Prefer not to answer,Master's degree,Yes
+50,speaker,security update,update_auto,update_manual,auto_manual,slightly increases,4,slightly increases,4,10,25,4,2,30,Man,"$40,000 to $49,999",Associate degree in college (2-year),No
+50,speaker,access control,access_password,access_none,password_none,no impact,3,no impact,3,-25,25,2,2,30,Man,"$40,000 to $49,999",Associate degree in college (2-year),No
+50,speaker,purpose,purpose_personal,purpose_money,personal_money,no impact,3,slightly decreases,2,15,20,1,1,30,Man,"$40,000 to $49,999",Associate degree in college (2-year),No
+50,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,no impact,3,-25,25,3,0,30,Man,"$40,000 to $49,999",Associate degree in college (2-year),No
+50,speaker,data sharing,shared_none,shared_third,none_third,slightly increases,4,slightly decreases,2,10,25,5,0,30,Man,"$40,000 to $49,999",Associate degree in college (2-year),No
+51,speaker,security update,update_auto,update_none,auto_none,no impact,3,no impact,3,-25,5,5,2,22,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+51,speaker,access control,access_mfa,access_none,MFA_none,no impact,3,no impact,3,-25,5,1,1,22,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+51,speaker,purpose,purpose_personal,purpose_money,personal_money,no impact,3,no impact,3,0,25,4,1,22,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+51,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly decreases,1,25,25,2,1,22,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+51,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,0,0,3,2,22,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+52,speaker,security update,update_auto,update_manual,auto_manual,strongly increases,5,no impact,3,25,25,5,2,24,Man,"$40,000 to $49,999",High school graduate (high school diploma or equivalent including GED),No
+52,speaker,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,4,1,24,Man,"$40,000 to $49,999",High school graduate (high school diploma or equivalent including GED),No
+52,speaker,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,slightly decreases,2,25,25,2,2,24,Man,"$40,000 to $49,999",High school graduate (high school diploma or equivalent including GED),No
+52,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly increases,5,25,25,1,1,24,Man,"$40,000 to $49,999",High school graduate (high school diploma or equivalent including GED),No
+52,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,slightly increases,4,slightly increases,4,25,25,3,2,24,Man,"$40,000 to $49,999",High school graduate (high school diploma or equivalent including GED),No
+53,speaker,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,4,1,22,Woman,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),Yes
+53,speaker,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,1,0,22,Woman,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),Yes
+53,speaker,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,slightly decreases,2,0,0,3,2,22,Woman,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),Yes
+53,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly increases,5,strongly decreases,1,10,25,2,1,22,Woman,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),Yes
+53,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,5,1,22,Woman,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),Yes
+54,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,2,2,28,Man,"$60,000 to $69,999",Some college but no degree,Yes
+54,speaker,access control,access_mfa,access_password,MFA_password,slightly increases,4,slightly decreases,2,10,25,3,2,28,Man,"$60,000 to $69,999",Some college but no degree,Yes
+54,speaker,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,4,2,28,Man,"$60,000 to $69,999",Some college but no degree,Yes
+54,speaker,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,slightly decreases,2,25,25,1,2,28,Man,"$60,000 to $69,999",Some college but no degree,Yes
+54,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,25,25,5,2,28,Man,"$60,000 to $69,999",Some college but no degree,Yes
+55,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,2,2,33,Woman,"$70,000 to $79,999",Master's degree,Yes
+55,smoke,access control,access_mfa,access_password,MFA_password,slightly increases,4,strongly decreases,1,0,25,3,2,33,Woman,"$70,000 to $79,999",Master's degree,Yes
+55,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,4,2,33,Woman,"$70,000 to $79,999",Master's degree,Yes
+55,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,strongly decreases,1,10,25,5,2,33,Woman,"$70,000 to $79,999",Master's degree,Yes
+55,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,15,20,1,2,33,Woman,"$70,000 to $79,999",Master's degree,Yes
+56,smoke,security update,update_manual,update_none,manual_none,strongly decreases,1,not sure,3,-5,0,2,2,30,Man,"$100,000 to $149,999",Master's degree,Yes
+56,smoke,access control,access_mfa,access_password,MFA_password,no impact,3,no impact,3,-5,25,1,2,30,Man,"$100,000 to $149,999",Master's degree,Yes
+56,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,0,5,3,2,30,Man,"$100,000 to $149,999",Master's degree,Yes
+56,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,no impact,3,no impact,3,-25,25,4,0,30,Man,"$100,000 to $149,999",Master's degree,Yes
+56,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,no impact,3,0,25,5,2,30,Man,"$100,000 to $149,999",Master's degree,Yes
+57,smoke,security update,update_auto,update_manual,auto_manual,slightly increases,4,strongly decreases,1,15,25,1,2,31,Woman,"$70,000 to $79,999",Associate degree in college (2-year),No
+57,smoke,access control,access_mfa,access_password,MFA_password,no impact,3,no impact,3,-5,25,2,1,31,Woman,"$70,000 to $79,999",Associate degree in college (2-year),No
+57,smoke,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,no impact,3,25,25,3,2,31,Woman,"$70,000 to $79,999",Associate degree in college (2-year),No
+57,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,25,25,5,2,31,Woman,"$70,000 to $79,999",Associate degree in college (2-year),No
+57,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,5,25,4,2,31,Woman,"$70,000 to $79,999",Associate degree in college (2-year),No
+58,smoke,security update,update_auto,update_manual,auto_manual,slightly increases,4,not sure,3,0,0,4,1,21,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No
+58,smoke,access control,access_mfa,access_password,MFA_password,no impact,3,not sure,3,-25,25,3,1,21,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No
+58,smoke,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,strongly increases,5,5,10,2,1,21,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No
+58,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,not sure,3,25,25,5,2,21,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No
+58,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,not sure,3,5,10,1,1,21,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No
+59,smoke,security update,update_auto,update_manual,auto_manual,no impact,3,no impact,3,-25,5,4,2,27,Woman,"$60,000 to $69,999",Master's degree,No
+59,smoke,access control,access_mfa,access_password,MFA_password,no impact,3,strongly decreases,1,-25,10,5,1,27,Woman,"$60,000 to $69,999",Master's degree,No
+59,smoke,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,no impact,3,15,25,3,2,27,Woman,"$60,000 to $69,999",Master's degree,No
+59,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,slightly decreases,2,15,20,1,2,27,Woman,"$60,000 to $69,999",Master's degree,No
+59,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,strongly decreases,1,-25,10,2,2,27,Woman,"$60,000 to $69,999",Master's degree,No
+60,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,1,1,39,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+60,smoke,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,2,2,39,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+60,smoke,purpose,purpose_main,purpose_personal,main_personal,no impact,3,slightly decreases,2,0,25,4,2,39,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+60,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,strongly decreases,1,0,25,5,2,39,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+60,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,slightly increases,4,slightly decreases,2,25,25,3,2,39,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+61,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,10,25,2,2,28,Woman,"$30,000 to $39,999",Master's degree,No
+61,smoke,access control,access_password,access_none,password_none,slightly increases,4,slightly decreases,2,5,25,3,2,28,Woman,"$30,000 to $39,999",Master's degree,No
+61,smoke,purpose,purpose_main,purpose_personal,main_personal,slightly decreases,2,no impact,3,-20,-15,5,2,28,Woman,"$30,000 to $39,999",Master's degree,No
+61,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,slightly increases,4,strongly decreases,1,0,15,4,2,28,Woman,"$30,000 to $39,999",Master's degree,No
+61,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,slightly decreases,2,5,20,1,2,28,Woman,"$30,000 to $39,999",Master's degree,No
+62,smoke,security update,update_auto,update_manual,auto_manual,slightly increases,4,no impact,3,25,25,2,2,37,Woman,"$100,000 to $149,999",Associate degree in college (2-year),No
+62,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,3,1,37,Woman,"$100,000 to $149,999",Associate degree in college (2-year),No
+62,smoke,purpose,purpose_personal,purpose_money,personal_money,no impact,3,slightly decreases,2,0,25,1,1,37,Woman,"$100,000 to $149,999",Associate degree in college (2-year),No
+62,smoke,cloud storage,cloud_none,cloud_identify,none_identify,slightly increases,4,strongly decreases,1,25,25,5,1,37,Woman,"$100,000 to $149,999",Associate degree in college (2-year),No
+62,smoke,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,4,2,37,Woman,"$100,000 to $149,999",Associate degree in college (2-year),No
+63,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,slightly decreases,2,25,25,4,2,38,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+63,smoke,access control,access_mfa,access_password,MFA_password,slightly decreases,2,strongly increases,5,-25,-25,3,2,38,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+63,smoke,purpose,purpose_main,purpose_personal,main_personal,no impact,3,slightly decreases,2,-25,0,5,2,38,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+63,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,slightly decreases,2,25,25,1,2,38,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+63,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,strongly decreases,1,-25,25,2,1,38,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+64,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,5,2,22,Woman,"$40,000 to $49,999",Some college but no degree,No
+64,smoke,access control,access_password,access_none,password_none,strongly increases,5,slightly decreases,2,25,25,3,1,22,Woman,"$40,000 to $49,999",Some college but no degree,No
+64,smoke,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,slightly increases,4,15,25,4,2,22,Woman,"$40,000 to $49,999",Some college but no degree,No
+64,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly decreases,2,slightly decreases,2,0,0,2,0,22,Woman,"$40,000 to $49,999",Some college but no degree,No
+64,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,no impact,3,0,25,1,2,22,Woman,"$40,000 to $49,999",Some college but no degree,No
+65,smoke,security update,update_auto,update_manual,auto_manual,slightly increases,4,slightly decreases,2,25,25,2,1,52,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+65,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,1,2,52,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+65,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,3,0,52,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+65,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,slightly increases,4,not sure,3,25,25,4,2,52,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+65,smoke,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,5,1,52,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+66,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,5,2,31,Woman,"$70,000 to $79,999",Some college but no degree,No
+66,smoke,access control,access_mfa,access_password,MFA_password,no impact,3,slightly decreases,2,-25,5,1,1,31,Woman,"$70,000 to $79,999",Some college but no degree,No
+66,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,no impact,3,25,25,2,2,31,Woman,"$70,000 to $79,999",Some college but no degree,No
+66,smoke,cloud storage,cloud_none,cloud_identify,none_identify,slightly increases,4,strongly decreases,1,25,25,4,1,31,Woman,"$70,000 to $79,999",Some college but no degree,No
+66,smoke,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,3,2,31,Woman,"$70,000 to $79,999",Some college but no degree,No
+67,smoke,security update,update_auto,update_manual,auto_manual,no impact,3,slightly increases,4,-15,-10,3,2,31,Man,"$70,000 to $79,999",Bachelor's degree in college (4-year),Yes
+67,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,4,1,31,Man,"$70,000 to $79,999",Bachelor's degree in college (4-year),Yes
+67,smoke,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,slightly decreases,2,10,15,2,2,31,Man,"$70,000 to $79,999",Bachelor's degree in college (4-year),Yes
+67,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,no impact,3,-25,5,1,2,31,Man,"$70,000 to $79,999",Bachelor's degree in college (4-year),Yes
+67,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,slightly increases,4,slightly decreases,2,25,25,5,2,31,Man,"$70,000 to $79,999",Bachelor's degree in college (4-year),Yes
+68,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,5,1,26,Man,"$20,000 to $29,999",Some college but no degree,No
+68,smoke,access control,access_mfa,access_password,MFA_password,strongly increases,5,strongly decreases,1,5,10,2,1,26,Man,"$20,000 to $29,999",Some college but no degree,No
+68,smoke,purpose,purpose_personal,purpose_money,personal_money,no impact,3,slightly decreases,2,-25,0,3,1,26,Man,"$20,000 to $29,999",Some college but no degree,No
+68,smoke,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,strongly increases,5,-5,25,1,1,26,Man,"$20,000 to $29,999",Some college but no degree,No
+68,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,slightly increases,4,slightly decreases,2,0,15,4,1,26,Man,"$20,000 to $29,999",Some college but no degree,No
+69,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,2,2,24,Man,"$100,000 to $149,999",Master's degree,No
+69,smoke,access control,access_password,access_none,password_none,slightly increases,4,strongly decreases,1,25,25,3,2,24,Man,"$100,000 to $149,999",Master's degree,No
+69,smoke,purpose,purpose_personal,purpose_money,personal_money,no impact,3,slightly increases,4,-25,5,5,2,24,Man,"$100,000 to $149,999",Master's degree,No
+69,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,no impact,3,no impact,3,-25,5,4,2,24,Man,"$100,000 to $149,999",Master's degree,No
+69,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,slightly increases,4,slightly increases,4,0,5,1,2,24,Man,"$100,000 to $149,999",Master's degree,No
+70,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,3,1,36,Man,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),No
+70,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,5,1,36,Man,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),No
+70,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,slightly increases,4,10,25,2,2,36,Man,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),No
+70,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,slightly decreases,2,slightly decreases,2,-15,-5,4,2,36,Man,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),No
+70,smoke,data sharing,shared_none,shared_third,none_third,slightly increases,4,slightly decreases,2,5,10,1,2,36,Man,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),No
+71,smoke,security update,update_manual,update_none,manual_none,no impact,3,no impact,3,0,25,5,2,25,Man,"$20,000 to $29,999",Some college but no degree,Yes
+71,smoke,access control,access_mfa,access_none,MFA_none,slightly increases,4,strongly decreases,1,15,20,3,0,25,Man,"$20,000 to $29,999",Some college but no degree,Yes
+71,smoke,purpose,purpose_main,purpose_personal,main_personal,no impact,3,slightly decreases,2,-5,0,1,1,25,Man,"$20,000 to $29,999",Some college but no degree,Yes
+71,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly decreases,1,strongly decreases,1,-20,-15,2,2,25,Man,"$20,000 to $29,999",Some college but no degree,Yes
+71,smoke,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,4,0,25,Man,"$20,000 to $29,999",Some college but no degree,Yes
+72,smoke,security update,update_auto,update_none,auto_none,slightly increases,4,strongly decreases,1,0,5,2,2,32,Woman,"$150,000 or more",Bachelor's degree in college (4-year),No
+72,smoke,access control,access_password,access_none,password_none,slightly increases,4,strongly decreases,1,0,5,1,2,32,Woman,"$150,000 or more",Bachelor's degree in college (4-year),No
+72,smoke,purpose,purpose_personal,purpose_money,personal_money,no impact,3,no impact,3,0,25,4,2,32,Woman,"$150,000 or more",Bachelor's degree in college (4-year),No
+72,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,strongly decreases,1,0,5,5,0,32,Woman,"$150,000 or more",Bachelor's degree in college (4-year),No
+72,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,15,20,3,1,32,Woman,"$150,000 or more",Bachelor's degree in college (4-year),No
+73,smoke,security update,update_auto,update_manual,auto_manual,no impact,3,strongly decreases,1,5,15,3,2,37,Woman,"$50,000 to $59,999",Doctoral degree,No
+73,smoke,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,4,1,37,Woman,"$50,000 to $59,999",Doctoral degree,No
+73,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,15,25,2,1,37,Woman,"$50,000 to $59,999",Doctoral degree,No
+73,smoke,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,slightly increases,4,25,25,1,2,37,Woman,"$50,000 to $59,999",Doctoral degree,No
+73,smoke,data sharing,shared_none,shared_third,none_third,strongly increases,5,slightly decreases,2,15,25,5,2,37,Woman,"$50,000 to $59,999",Doctoral degree,No
+74,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,5,2,46,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+74,smoke,access control,access_mfa,access_password,MFA_password,slightly increases,4,strongly decreases,1,5,10,4,2,46,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+74,smoke,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,strongly decreases,1,25,25,3,2,46,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+74,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,25,25,2,2,46,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+74,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,strongly decreases,1,25,25,1,2,46,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+75,smoke,security update,update_auto,update_none,auto_none,slightly increases,4,not sure,3,25,25,3,2,28,Woman,"$20,000 to $29,999",Bachelor's degree in college (4-year),Yes
+75,smoke,access control,access_mfa,access_password,MFA_password,slightly decreases,2,strongly decreases,1,-25,-25,5,1,28,Woman,"$20,000 to $29,999",Bachelor's degree in college (4-year),Yes
+75,smoke,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,not sure,3,0,0,4,2,28,Woman,"$20,000 to $29,999",Bachelor's degree in college (4-year),Yes
+75,smoke,cloud storage,cloud_none,cloud_identify,none_identify,strongly decreases,1,strongly increases,5,-25,-25,2,0,28,Woman,"$20,000 to $29,999",Bachelor's degree in college (4-year),Yes
+75,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,slightly increases,4,not sure,3,25,25,1,1,28,Woman,"$20,000 to $29,999",Bachelor's degree in college (4-year),Yes
+76,smoke,security update,update_auto,update_manual,auto_manual,slightly increases,4,slightly decreases,2,5,15,1,2,49,Man,"$40,000 to $49,999",Some college but no degree,No
+76,smoke,access control,access_mfa,access_none,MFA_none,no impact,3,strongly decreases,1,-25,20,4,1,49,Man,"$40,000 to $49,999",Some college but no degree,No
+76,smoke,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,slightly increases,4,25,25,5,1,49,Man,"$40,000 to $49,999",Some college but no degree,No
+76,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,slightly decreases,2,10,25,3,2,49,Man,"$40,000 to $49,999",Some college but no degree,No
+76,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,strongly decreases,1,-25,10,2,2,49,Man,"$40,000 to $49,999",Some college but no degree,No
+77,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,2,1,51,Woman,Prefer not to answer,Bachelor's degree in college (4-year),No
+77,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,1,0,51,Woman,Prefer not to answer,Bachelor's degree in college (4-year),No
+77,smoke,purpose,purpose_personal,purpose_money,personal_money,no impact,3,no impact,3,0,25,5,2,51,Woman,Prefer not to answer,Bachelor's degree in college (4-year),No
+77,smoke,cloud storage,cloud_none,cloud_identify,none_identify,slightly increases,4,slightly decreases,2,25,25,3,0,51,Woman,Prefer not to answer,Bachelor's degree in college (4-year),No
+77,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,no impact,3,25,25,4,2,51,Woman,Prefer not to answer,Bachelor's degree in college (4-year),No
+78,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,4,2,40,Man,"Less than $10,000",Master's degree,No
+78,smoke,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,2,1,40,Man,"Less than $10,000",Master's degree,No
+78,smoke,purpose,purpose_main,purpose_money,main_money,strongly decreases,1,no impact,3,0,0,1,2,40,Man,"Less than $10,000",Master's degree,No
+78,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,slightly increases,4,no impact,3,0,5,3,2,40,Man,"Less than $10,000",Master's degree,No
+78,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,slightly increases,4,slightly decreases,2,25,25,5,2,40,Man,"Less than $10,000",Master's degree,No
+79,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,slightly decreases,2,25,25,5,2,41,Man,"$30,000 to $39,999",Master's degree,No
+79,smoke,access control,access_mfa,access_password,MFA_password,strongly decreases,1,not sure,3,-25,-25,2,2,41,Man,"$30,000 to $39,999",Master's degree,No
+79,smoke,purpose,purpose_main,purpose_personal,main_personal,strongly increases,5,slightly increases,4,25,25,3,2,41,Man,"$30,000 to $39,999",Master's degree,No
+79,smoke,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,slightly decreases,2,25,25,1,1,41,Man,"$30,000 to $39,999",Master's degree,No
+79,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,slightly decreases,2,25,25,4,1,41,Man,"$30,000 to $39,999",Master's degree,No
+80,smoke,security update,update_auto,update_manual,auto_manual,slightly increases,4,strongly decreases,1,0,5,5,2,23,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+80,smoke,access control,access_mfa,access_password,MFA_password,no impact,3,no impact,3,-5,0,3,2,23,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+80,smoke,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,slightly increases,4,0,5,1,1,23,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+80,smoke,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,no impact,3,0,25,4,1,23,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+80,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,slightly increases,4,no impact,3,0,5,2,2,23,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+81,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,2,0,59,Man,"$10,000 to $19,999",Some college but no degree,Yes
+81,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,4,1,59,Man,"$10,000 to $19,999",Some college but no degree,Yes
+81,smoke,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,strongly decreases,1,0,0,1,2,59,Man,"$10,000 to $19,999",Some college but no degree,Yes
+81,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,no impact,3,no impact,3,-5,25,3,2,59,Man,"$10,000 to $19,999",Some college but no degree,Yes
+81,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,no impact,3,25,25,5,1,59,Man,"$10,000 to $19,999",Some college but no degree,Yes
+82,smoke,security update,update_manual,update_none,manual_none,slightly decreases,2,slightly decreases,2,-10,0,3,2,23,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+82,smoke,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,5,15,5,1,23,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+82,smoke,purpose,purpose_personal,purpose_money,personal_money,no impact,3,no impact,3,10,15,2,1,23,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+82,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly decreases,1,slightly decreases,2,-10,-5,1,2,23,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+82,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,no impact,3,0,25,4,2,23,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+83,smoke,security update,update_auto,update_manual,auto_manual,no impact,3,slightly decreases,2,0,25,5,2,53,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+83,smoke,access control,access_password,access_none,password_none,slightly increases,4,slightly decreases,2,0,5,1,2,53,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+83,smoke,purpose,purpose_main,purpose_money,main_money,slightly increases,4,slightly decreases,2,25,25,2,2,53,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+83,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,slightly decreases,2,25,25,3,2,53,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+83,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,slightly increases,4,slightly decreases,2,15,25,4,2,53,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes
+84,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,5,2,24,Woman,"Less than $10,000",Less than high school degree,No
+84,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,2,2,24,Woman,"Less than $10,000",Less than high school degree,No
+84,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,0,0,4,2,24,Woman,"Less than $10,000",Less than high school degree,No
+84,smoke,cloud storage,cloud_none,cloud_identify,none_identify,slightly decreases,2,strongly decreases,1,-15,-5,1,1,24,Woman,"Less than $10,000",Less than high school degree,No
+84,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,slightly increases,4,slightly decreases,2,25,25,3,1,24,Woman,"Less than $10,000",Less than high school degree,No
+85,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,1,2,59,Woman,"$10,000 to $19,999",Associate degree in college (2-year),Yes
+85,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,2,0,59,Woman,"$10,000 to $19,999",Associate degree in college (2-year),Yes
+85,smoke,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,strongly increases,5,25,25,5,0,59,Woman,"$10,000 to $19,999",Associate degree in college (2-year),Yes
+85,smoke,cloud storage,cloud_none,cloud_identify,none_identify,slightly increases,4,strongly increases,5,0,0,4,1,59,Woman,"$10,000 to $19,999",Associate degree in college (2-year),Yes
+85,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,0,0,3,1,59,Woman,"$10,000 to $19,999",Associate degree in college (2-year),Yes
+86,smoke,security update,update_auto,update_manual,auto_manual,slightly increases,4,no impact,3,0,5,2,2,29,Woman,"$40,000 to $49,999",High school graduate (high school diploma or equivalent including GED),No
+86,smoke,access control,access_mfa,access_password,MFA_password,no impact,3,slightly decreases,2,0,25,4,2,29,Woman,"$40,000 to $49,999",High school graduate (high school diploma or equivalent including GED),No
+86,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,3,2,29,Woman,"$40,000 to $49,999",High school graduate (high school diploma or equivalent including GED),No
+86,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,no impact,3,-25,5,1,2,29,Woman,"$40,000 to $49,999",High school graduate (high school diploma or equivalent including GED),No
+86,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,strongly increases,5,0,25,5,2,29,Woman,"$40,000 to $49,999",High school graduate (high school diploma or equivalent including GED),No
+87,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,4,2,27,Woman,"$150,000 or more",Master's degree,Yes
+87,smoke,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,3,2,27,Woman,"$150,000 or more",Master's degree,Yes
+87,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,2,2,27,Woman,"$150,000 or more",Master's degree,Yes
+87,smoke,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,strongly decreases,1,0,25,5,1,27,Woman,"$150,000 or more",Master's degree,Yes
+87,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,25,25,1,2,27,Woman,"$150,000 or more",Master's degree,Yes
+88,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,15,20,3,2,44,Woman,"$70,000 to $79,999",Master's degree,No
+88,smoke,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,15,20,1,2,44,Woman,"$70,000 to $79,999",Master's degree,No
+88,smoke,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,no impact,3,15,25,4,1,44,Woman,"$70,000 to $79,999",Master's degree,No
+88,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,25,25,5,2,44,Woman,"$70,000 to $79,999",Master's degree,No
+88,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,no impact,3,no impact,3,25,25,2,1,44,Woman,"$70,000 to $79,999",Master's degree,No
+89,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,5,1,37,Woman,"$90,000 to $99,999",Bachelor's degree in college (4-year),No
+89,smoke,access control,access_password,access_none,password_none,strongly increases,5,not sure,3,15,25,3,1,37,Woman,"$90,000 to $99,999",Bachelor's degree in college (4-year),No
+89,smoke,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,slightly increases,4,0,0,2,2,37,Woman,"$90,000 to $99,999",Bachelor's degree in college (4-year),No
+89,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,slightly decreases,2,slightly decreases,2,-20,-15,1,2,37,Woman,"$90,000 to $99,999",Bachelor's degree in college (4-year),No
+89,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,slightly decreases,2,25,25,4,2,37,Woman,"$90,000 to $99,999",Bachelor's degree in college (4-year),No
+90,smoke,security update,update_auto,update_manual,auto_manual,strongly increases,5,strongly decreases,1,25,25,4,2,40,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+90,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,2,2,40,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+90,smoke,purpose,purpose_main,purpose_personal,main_personal,strongly increases,5,strongly decreases,1,25,25,5,2,40,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+90,smoke,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly decreases,1,25,25,1,2,40,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+90,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,no impact,3,-25,25,3,2,40,Man,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+91,smoke,security update,update_manual,update_none,manual_none,slightly increases,4,slightly decreases,2,25,25,5,2,33,Woman,"$80,000 to $89,999",Master's degree,No
+91,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,slightly decreases,2,25,25,2,2,33,Woman,"$80,000 to $89,999",Master's degree,No
+91,smoke,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,no impact,3,25,25,3,1,33,Woman,"$80,000 to $89,999",Master's degree,No
+91,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,slightly decreases,2,25,25,1,2,33,Woman,"$80,000 to $89,999",Master's degree,No
+91,smoke,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,4,2,33,Woman,"$80,000 to $89,999",Master's degree,No
+92,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,4,2,31,Woman,"$50,000 to $59,999",Some college but no degree,No
+92,smoke,access control,access_mfa,access_password,MFA_password,strongly increases,5,strongly decreases,1,25,25,3,2,31,Woman,"$50,000 to $59,999",Some college but no degree,No
+92,smoke,purpose,purpose_main,purpose_personal,main_personal,no impact,3,not sure,3,-25,25,5,2,31,Woman,"$50,000 to $59,999",Some college but no degree,No
+92,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly increases,5,strongly decreases,1,25,25,2,2,31,Woman,"$50,000 to $59,999",Some college but no degree,No
+92,smoke,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,1,2,31,Woman,"$50,000 to $59,999",Some college but no degree,No
+93,smoke,security update,update_manual,update_none,manual_none,no impact,3,slightly decreases,2,0,25,2,2,44,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+93,smoke,access control,access_mfa,access_password,MFA_password,slightly increases,4,strongly decreases,1,25,25,4,2,44,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+93,smoke,purpose,purpose_personal,purpose_money,personal_money,no impact,3,no impact,3,25,25,1,2,44,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+93,smoke,cloud storage,cloud_none,cloud_identify,none_identify,slightly increases,4,strongly decreases,1,25,25,3,2,44,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+93,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,strongly decreases,1,0,25,5,2,44,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+94,smoke,security update,update_auto,update_manual,auto_manual,no impact,3,no impact,3,-25,25,4,2,36,Woman,"$80,000 to $89,999",Bachelor's degree in college (4-year),No
+94,smoke,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,1,2,36,Woman,"$80,000 to $89,999",Bachelor's degree in college (4-year),No
+94,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,strongly decreases,1,25,25,3,1,36,Woman,"$80,000 to $89,999",Bachelor's degree in college (4-year),No
+94,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,no impact,3,-25,25,5,2,36,Woman,"$80,000 to $89,999",Bachelor's degree in college (4-year),No
+94,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,25,25,2,2,36,Woman,"$80,000 to $89,999",Bachelor's degree in college (4-year),No
+95,smoke,security update,update_auto,update_manual,auto_manual,slightly increases,4,strongly decreases,1,15,25,5,1,47,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+95,smoke,access control,access_mfa,access_password,MFA_password,strongly increases,5,no impact,3,0,0,2,2,47,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+95,smoke,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,strongly decreases,1,25,25,1,2,47,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+95,smoke,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,strongly decreases,1,-25,0,4,1,47,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+95,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,slightly increases,4,slightly decreases,2,25,25,3,2,47,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+96,smoke,security update,update_auto,update_none,auto_none,slightly increases,4,strongly decreases,1,5,15,1,2,29,Man,"$80,000 to $89,999",Some college but no degree,No
+96,smoke,access control,access_mfa,access_none,MFA_none,no impact,3,slightly decreases,2,-5,0,2,2,29,Man,"$80,000 to $89,999",Some college but no degree,No
+96,smoke,purpose,purpose_main,purpose_money,main_money,slightly increases,4,slightly decreases,2,5,15,4,1,29,Man,"$80,000 to $89,999",Some college but no degree,No
+96,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,no impact,3,-5,0,5,2,29,Man,"$80,000 to $89,999",Some college but no degree,No
+96,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,no impact,3,10,15,3,1,29,Man,"$80,000 to $89,999",Some college but no degree,No
+97,smoke,security update,update_manual,update_none,manual_none,strongly decreases,1,slightly increases,4,-25,0,1,2,25,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+97,smoke,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,0,0,3,0,25,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+97,smoke,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,strongly decreases,1,-25,0,4,0,25,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+97,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,-25,0,5,0,25,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+97,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,25,25,2,0,25,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+98,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,slightly decreases,2,15,20,4,2,46,Woman,"$100,000 to $149,999",Doctoral degree,No
+98,smoke,access control,access_mfa,access_none,MFA_none,slightly increases,4,slightly decreases,2,25,25,3,1,46,Woman,"$100,000 to $149,999",Doctoral degree,No
+98,smoke,purpose,purpose_main,purpose_personal,main_personal,slightly decreases,2,not sure,3,-10,-5,1,2,46,Woman,"$100,000 to $149,999",Doctoral degree,No
+98,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,slightly decreases,2,25,25,2,2,46,Woman,"$100,000 to $149,999",Doctoral degree,No
+98,smoke,data sharing,shared_none,shared_third,none_third,no impact,3,strongly decreases,1,-25,0,5,2,46,Woman,"$100,000 to $149,999",Doctoral degree,No
+99,smoke,security update,update_auto,update_manual,auto_manual,slightly increases,4,strongly decreases,1,10,15,1,2,44,Man,"$70,000 to $79,999",Bachelor's degree in college (4-year),Yes
+99,smoke,access control,access_mfa,access_password,MFA_password,slightly increases,4,strongly decreases,1,0,5,2,2,44,Man,"$70,000 to $79,999",Bachelor's degree in college (4-year),Yes
+99,smoke,purpose,purpose_main,purpose_personal,main_personal,slightly decreases,2,slightly decreases,2,0,0,4,2,44,Man,"$70,000 to $79,999",Bachelor's degree in college (4-year),Yes
+99,smoke,cloud storage,cloud_none,cloud_identify,none_identify,slightly decreases,2,strongly decreases,1,-5,0,5,1,44,Man,"$70,000 to $79,999",Bachelor's degree in college (4-year),Yes
+99,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,strongly decreases,1,10,15,3,2,44,Man,"$70,000 to $79,999",Bachelor's degree in college (4-year),Yes
+100,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,5,2,30,Woman,"$100,000 to $149,999",Master's degree,No
+100,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,1,0,30,Woman,"$100,000 to $149,999",Master's degree,No
+100,smoke,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,strongly decreases,1,0,0,2,1,30,Woman,"$100,000 to $149,999",Master's degree,No
+100,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly increases,5,strongly decreases,1,0,0,3,0,30,Woman,"$100,000 to $149,999",Master's degree,No
+100,smoke,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,0,25,4,2,30,Woman,"$100,000 to $149,999",Master's degree,No
+101,smoke,security update,update_auto,update_manual,auto_manual,strongly increases,5,not sure,3,5,20,1,2,24,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+101,smoke,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,4,2,24,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+101,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,slightly decreases,2,25,25,2,1,24,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+101,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,slightly decreases,2,strongly decreases,1,-20,-10,3,2,24,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+101,smoke,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,5,2,24,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+102,smoke,security update,update_auto,update_manual,auto_manual,slightly increases,4,strongly decreases,1,25,25,3,2,32,Woman,"Less than $10,000",Associate degree in college (2-year),Yes
+102,smoke,access control,access_password,access_none,password_none,slightly increases,4,slightly decreases,2,15,25,2,1,32,Woman,"Less than $10,000",Associate degree in college (2-year),Yes
+102,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,not sure,3,25,25,5,1,32,Woman,"Less than $10,000",Associate degree in college (2-year),Yes
+102,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,not sure,3,-5,25,1,1,32,Woman,"Less than $10,000",Associate degree in college (2-year),Yes
+102,smoke,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,4,2,32,Woman,"Less than $10,000",Associate degree in college (2-year),Yes
+103,smoke,security update,update_auto,update_manual,auto_manual,strongly increases,5,no impact,3,25,25,4,2,54,Man,"$30,000 to $39,999",Associate degree in college (2-year),Yes
+103,smoke,access control,access_password,access_none,password_none,no impact,3,no impact,3,-25,5,1,1,54,Man,"$30,000 to $39,999",Associate degree in college (2-year),Yes
+103,smoke,purpose,purpose_main,purpose_money,main_money,no impact,3,no impact,3,-5,25,3,1,54,Man,"$30,000 to $39,999",Associate degree in college (2-year),Yes
+103,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,no impact,3,-25,5,5,2,54,Man,"$30,000 to $39,999",Associate degree in college (2-year),Yes
+103,smoke,data sharing,shared_none,shared_third,none_third,no impact,3,no impact,3,-25,5,2,2,54,Man,"$30,000 to $39,999",Associate degree in college (2-year),Yes
+104,smoke,security update,update_auto,update_manual,auto_manual,slightly increases,4,slightly decreases,2,5,10,3,2,47,Man,"$100,000 to $149,999",Doctoral degree,Yes
+104,smoke,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,1,2,47,Man,"$100,000 to $149,999",Doctoral degree,Yes
+104,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,slightly decreases,2,5,10,4,1,47,Man,"$100,000 to $149,999",Doctoral degree,Yes
+104,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,no impact,3,-5,0,5,2,47,Man,"$100,000 to $149,999",Doctoral degree,Yes
+104,smoke,data sharing,shared_none,shared_third,none_third,slightly increases,4,slightly decreases,2,10,15,2,2,47,Man,"$100,000 to $149,999",Doctoral degree,Yes
+105,smoke,security update,update_auto,update_manual,auto_manual,no impact,3,no impact,3,0,25,3,0,30,Man,"$50,000 to $59,999",Master's degree,No
+105,smoke,access control,access_password,access_none,password_none,strongly increases,5,slightly decreases,2,25,25,2,1,30,Man,"$50,000 to $59,999",Master's degree,No
+105,smoke,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,strongly decreases,1,25,25,5,1,30,Man,"$50,000 to $59,999",Master's degree,No
+105,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly decreases,1,strongly decreases,1,-25,-25,4,0,30,Man,"$50,000 to $59,999",Master's degree,No
+105,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,strongly decreases,1,10,15,1,0,30,Man,"$50,000 to $59,999",Master's degree,No
+106,smoke,security update,update_auto,update_manual,auto_manual,strongly increases,5,strongly decreases,1,25,25,3,2,21,Man,"$60,000 to $69,999",Some college but no degree,Yes
+106,smoke,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,5,1,21,Man,"$60,000 to $69,999",Some college but no degree,Yes
+106,smoke,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,slightly decreases,2,5,10,2,2,21,Man,"$60,000 to $69,999",Some college but no degree,Yes
+106,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,strongly decreases,1,no impact,3,-25,-5,4,1,21,Man,"$60,000 to $69,999",Some college but no degree,Yes
+106,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,slightly decreases,2,10,20,1,2,21,Man,"$60,000 to $69,999",Some college but no degree,Yes
+107,smoke,security update,update_auto,update_manual,auto_manual,no impact,3,not sure,3,-25,5,4,2,30,Non-binary,"$30,000 to $39,999",Some college but no degree,No
+107,smoke,access control,access_password,access_none,password_none,strongly increases,5,slightly decreases,2,25,25,1,1,30,Non-binary,"$30,000 to $39,999",Some college but no degree,No
+107,smoke,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,not sure,3,25,25,2,2,30,Non-binary,"$30,000 to $39,999",Some college but no degree,No
+107,smoke,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,no impact,3,-25,5,3,2,30,Non-binary,"$30,000 to $39,999",Some college but no degree,No
+107,smoke,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,slightly decreases,2,25,25,5,2,30,Non-binary,"$30,000 to $39,999",Some college but no degree,No
+108,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,4,2,37,Man,"$80,000 to $89,999",Some college but no degree,Yes
+108,smoke,access control,access_mfa,access_password,MFA_password,slightly increases,4,slightly increases,4,0,0,1,2,37,Man,"$80,000 to $89,999",Some college but no degree,Yes
+108,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,not sure,3,25,25,2,1,37,Man,"$80,000 to $89,999",Some college but no degree,Yes
+108,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,25,25,5,2,37,Man,"$80,000 to $89,999",Some college but no degree,Yes
+108,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,slightly increases,4,slightly decreases,2,5,25,3,2,37,Man,"$80,000 to $89,999",Some college but no degree,Yes
+109,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,no impact,3,25,25,1,1,35,Woman,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),No
+109,smoke,access control,access_mfa,access_password,MFA_password,strongly increases,5,strongly decreases,1,25,25,4,1,35,Woman,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),No
+109,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,no impact,3,25,25,3,0,35,Woman,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),No
+109,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,strongly increases,5,strongly decreases,1,25,25,2,1,35,Woman,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),No
+109,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,slightly decreases,2,0,25,5,2,35,Woman,"$20,000 to $29,999",High school graduate (high school diploma or equivalent including GED),No
+110,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,no impact,3,25,25,3,1,19,Man,"$30,000 to $39,999",Some college but no degree,Yes
+110,smoke,access control,access_mfa,access_password,MFA_password,no impact,3,strongly decreases,1,-25,0,4,2,19,Man,"$30,000 to $39,999",Some college but no degree,Yes
+110,smoke,purpose,purpose_main,purpose_money,main_money,slightly decreases,2,not sure,3,-20,-10,1,1,19,Man,"$30,000 to $39,999",Some college but no degree,Yes
+110,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,strongly decreases,1,0,25,2,1,19,Man,"$30,000 to $39,999",Some college but no degree,Yes
+110,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,strongly decreases,1,not sure,3,-25,-20,5,2,19,Man,"$30,000 to $39,999",Some college but no degree,Yes
+111,smoke,security update,update_manual,update_none,manual_none,slightly increases,4,slightly decreases,2,25,25,3,2,48,Woman,"$20,000 to $29,999",Some college but no degree,Yes
+111,smoke,access control,access_mfa,access_password,MFA_password,strongly increases,5,slightly increases,4,0,0,2,2,48,Woman,"$20,000 to $29,999",Some college but no degree,Yes
+111,smoke,purpose,purpose_main,purpose_money,main_money,slightly increases,4,strongly decreases,1,25,25,5,2,48,Woman,"$20,000 to $29,999",Some college but no degree,Yes
+111,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,strongly decreases,1,25,25,1,2,48,Woman,"$20,000 to $29,999",Some college but no degree,Yes
+111,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,slightly decreases,2,-25,0,4,2,48,Woman,"$20,000 to $29,999",Some college but no degree,Yes
+112,smoke,security update,update_manual,update_none,manual_none,strongly increases,5,strongly decreases,1,25,25,5,2,40,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+112,smoke,access control,access_mfa,access_password,MFA_password,slightly increases,4,strongly decreases,1,10,25,1,2,40,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+112,smoke,purpose,purpose_main,purpose_money,main_money,strongly increases,5,slightly decreases,2,25,25,2,2,40,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+112,smoke,cloud storage,cloud_deidentify,cloud_identify,deidentify_identify,slightly increases,4,slightly decreases,2,25,25,4,1,40,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+112,smoke,data sharing,shared_none,shared_manufacturer,none_manufact,slightly increases,4,slightly decreases,2,25,25,3,1,40,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+113,smoke,security update,update_auto,update_none,auto_none,slightly increases,4,slightly decreases,2,5,10,1,1,19,Woman,Prefer not to answer,Some college but no degree,Yes
+113,smoke,access control,access_mfa,access_none,MFA_none,slightly increases,4,slightly decreases,2,10,25,5,1,19,Woman,Prefer not to answer,Some college but no degree,Yes
+113,smoke,purpose,purpose_main,purpose_personal,main_personal,no impact,3,no impact,3,-25,25,4,2,19,Woman,Prefer not to answer,Some college but no degree,Yes
+113,smoke,cloud storage,cloud_none,cloud_identify,none_identify,slightly increases,4,slightly decreases,2,10,25,2,2,19,Woman,Prefer not to answer,Some college but no degree,Yes
+113,smoke,data sharing,shared_none,shared_third,none_third,slightly increases,4,slightly decreases,2,10,25,3,2,19,Woman,Prefer not to answer,Some college but no degree,Yes
+114,smoke,security update,update_auto,update_none,auto_none,slightly increases,4,slightly increases,4,25,25,4,2,38,Man,"$150,000 or more",Doctoral degree,Yes
+114,smoke,access control,access_mfa,access_none,MFA_none,slightly increases,4,not sure,3,25,25,1,1,38,Man,"$150,000 or more",Doctoral degree,Yes
+114,smoke,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,not sure,3,0,25,3,2,38,Man,"$150,000 or more",Doctoral degree,Yes
+114,smoke,cloud storage,cloud_none,cloud_identify,none_identify,slightly increases,4,not sure,3,0,0,5,1,38,Man,"$150,000 or more",Doctoral degree,Yes
+114,smoke,data sharing,shared_none,shared_third,none_third,no impact,3,not sure,3,-25,25,2,1,38,Man,"$150,000 or more",Doctoral degree,Yes
+115,smoke,security update,update_auto,update_none,auto_none,no impact,3,strongly decreases,1,10,15,4,2,63,Woman,"$60,000 to $69,999",Some college but no degree,No
+115,smoke,access control,access_mfa,access_none,MFA_none,slightly increases,4,slightly decreases,2,0,10,3,1,63,Woman,"$60,000 to $69,999",Some college but no degree,No
+115,smoke,purpose,purpose_main,purpose_personal,main_personal,slightly increases,4,slightly increases,4,0,10,5,1,63,Woman,"$60,000 to $69,999",Some college but no degree,No
+115,smoke,cloud storage,cloud_none,cloud_identify,none_identify,slightly increases,4,slightly decreases,2,5,10,1,2,63,Woman,"$60,000 to $69,999",Some college but no degree,No
+115,smoke,data sharing,shared_none,shared_third,none_third,no impact,3,slightly decreases,2,-10,25,2,1,63,Woman,"$60,000 to $69,999",Some college but no degree,No
+116,smoke,security update,update_auto,update_none,auto_none,slightly increases,4,slightly decreases,2,25,25,2,2,28,Man,"$70,000 to $79,999",Master's degree,No
+116,smoke,access control,access_mfa,access_none,MFA_none,slightly increases,4,slightly decreases,2,25,25,5,1,28,Man,"$70,000 to $79,999",Master's degree,No
+116,smoke,purpose,purpose_main,purpose_personal,main_personal,no impact,3,no impact,3,-25,25,1,2,28,Man,"$70,000 to $79,999",Master's degree,No
+116,smoke,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,no impact,3,-25,25,3,1,28,Man,"$70,000 to $79,999",Master's degree,No
+116,smoke,data sharing,shared_none,shared_third,none_third,no impact,3,no impact,3,-25,25,4,2,28,Man,"$70,000 to $79,999",Master's degree,No
+117,smoke,security update,update_auto,update_none,auto_none,strongly decreases,1,strongly increases,5,-25,-25,3,2,45,Man,"$100,000 to $149,999",Some college but no degree,Yes
+117,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,25,25,4,1,45,Man,"$100,000 to $149,999",Some college but no degree,Yes
+117,smoke,purpose,purpose_main,purpose_personal,main_personal,strongly increases,5,slightly decreases,2,15,25,5,2,45,Man,"$100,000 to $149,999",Some college but no degree,Yes
+117,smoke,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly decreases,1,20,25,1,1,45,Man,"$100,000 to $149,999",Some college but no degree,Yes
+117,smoke,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,25,25,2,2,45,Man,"$100,000 to $149,999",Some college but no degree,Yes
+118,smoke,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,1,2,38,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+118,smoke,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,10,15,2,0,38,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+118,smoke,purpose,purpose_main,purpose_personal,main_personal,no impact,3,no impact,3,-15,-10,4,2,38,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+118,smoke,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,not sure,3,0,0,3,1,38,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+118,smoke,data sharing,shared_none,shared_third,none_third,no impact,3,strongly decreases,1,10,15,5,2,38,Woman,"$40,000 to $49,999",Bachelor's degree in college (4-year),No
+119,smoke,security update,update_auto,update_none,auto_none,slightly increases,4,no impact,3,10,25,4,2,23,Woman,"$20,000 to $29,999",Some college but no degree,No
+119,smoke,access control,access_mfa,access_none,MFA_none,slightly increases,4,strongly decreases,1,10,25,3,1,23,Woman,"$20,000 to $29,999",Some college but no degree,No
+119,smoke,purpose,purpose_main,purpose_personal,main_personal,no impact,3,slightly decreases,2,0,25,5,1,23,Woman,"$20,000 to $29,999",Some college but no degree,No
+119,smoke,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,strongly decreases,1,0,25,1,1,23,Woman,"$20,000 to $29,999",Some college but no degree,No
+119,smoke,data sharing,shared_none,shared_third,none_third,slightly increases,4,slightly decreases,2,5,25,2,2,23,Woman,"$20,000 to $29,999",Some college but no degree,No
+120,speaker,security update,update_auto,update_manual,auto_manual,strongly increases,5,strongly decreases,1,15,25,1,2,25,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+120,speaker,access control,access_mfa,access_password,MFA_password,no impact,3,strongly decreases,1,-25,15,5,2,25,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+120,speaker,purpose,purpose_main,purpose_personal,main_personal,slightly decreases,2,not sure,3,-20,0,2,2,25,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+120,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly decreases,1,25,25,4,2,25,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+120,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,15,25,3,2,25,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+121,speaker,security update,update_auto,update_manual,auto_manual,strongly increases,5,not sure,3,10,15,1,2,48,Woman,"$10,000 to $19,999",Bachelor's degree in college (4-year),No
+121,speaker,access control,access_mfa,access_password,MFA_password,slightly increases,4,not sure,3,5,15,2,2,48,Woman,"$10,000 to $19,999",Bachelor's degree in college (4-year),No
+121,speaker,purpose,purpose_main,purpose_personal,main_personal,strongly increases,5,strongly decreases,1,0,0,4,0,48,Woman,"$10,000 to $19,999",Bachelor's degree in college (4-year),No
+121,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly decreases,1,strongly decreases,1,-5,0,3,0,48,Woman,"$10,000 to $19,999",Bachelor's degree in college (4-year),No
+121,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,strongly increases,5,strongly decreases,1,25,25,5,2,48,Woman,"$10,000 to $19,999",Bachelor's degree in college (4-year),No
+122,speaker,security update,update_auto,update_manual,auto_manual,strongly increases,5,strongly decreases,1,25,25,5,2,19,Man,"$150,000 or more",High school graduate (high school diploma or equivalent including GED),No
+122,speaker,access control,access_mfa,access_password,MFA_password,no impact,3,not sure,3,0,25,2,1,19,Man,"$150,000 or more",High school graduate (high school diploma or equivalent including GED),No
+122,speaker,purpose,purpose_main,purpose_personal,main_personal,no impact,3,not sure,3,-25,-25,1,0,19,Man,"$150,000 or more",High school graduate (high school diploma or equivalent including GED),No
+122,speaker,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,not sure,3,-25,-25,4,0,19,Man,"$150,000 or more",High school graduate (high school diploma or equivalent including GED),No
+122,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,not sure,3,0,5,3,2,19,Man,"$150,000 or more",High school graduate (high school diploma or equivalent including GED),No
+123,speaker,security update,update_auto,update_manual,auto_manual,slightly increases,4,slightly increases,4,5,15,1,2,22,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+123,speaker,access control,access_mfa,access_password,MFA_password,no impact,3,strongly decreases,1,-5,25,2,2,22,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+123,speaker,purpose,purpose_main,purpose_personal,main_personal,no impact,3,not sure,3,-25,5,4,1,22,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+123,speaker,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,slightly decreases,2,-25,5,3,1,22,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+123,speaker,data sharing,shared_none,shared_manufacturer,none_manufact,no impact,3,slightly decreases,2,-5,25,5,2,22,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),No
+124,speaker,security update,update_auto,update_none,auto_none,slightly increases,4,slightly decreases,2,0,0,2,2,53,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+124,speaker,access control,access_mfa,access_none,MFA_none,slightly increases,4,slightly decreases,2,5,10,5,1,53,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+124,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,slightly decreases,2,-25,0,3,1,53,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+124,speaker,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,slightly decreases,2,-5,0,4,1,53,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+124,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly decreases,1,slightly decreases,2,0,0,1,2,53,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),No
+125,speaker,security update,update_auto,update_none,auto_none,slightly increases,4,slightly decreases,2,5,10,5,2,26,Woman,"$90,000 to $99,999",Master's degree,No
+125,speaker,access control,access_mfa,access_none,MFA_none,slightly increases,4,strongly decreases,1,5,10,3,1,26,Woman,"$90,000 to $99,999",Master's degree,No
+125,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,no impact,3,25,25,4,2,26,Woman,"$90,000 to $99,999",Master's degree,No
+125,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly decreases,1,5,10,2,2,26,Woman,"$90,000 to $99,999",Master's degree,No
+125,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,slightly increases,4,no impact,3,0,5,1,2,26,Woman,"$90,000 to $99,999",Master's degree,No
+126,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,25,25,1,2,42,Man,"$40,000 to $49,999",Associate degree in college (2-year),Yes
+126,speaker,access control,access_mfa,access_none,MFA_none,slightly increases,4,strongly decreases,1,10,15,2,1,42,Man,"$40,000 to $49,999",Associate degree in college (2-year),Yes
+126,speaker,purpose,purpose_personal,purpose_money,personal_money,slightly increases,4,slightly increases,4,25,25,5,2,42,Man,"$40,000 to $49,999",Associate degree in college (2-year),Yes
+126,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly decreases,1,25,25,4,2,42,Man,"$40,000 to $49,999",Associate degree in college (2-year),Yes
+126,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,strongly increases,5,0,0,3,1,42,Man,"$40,000 to $49,999",Associate degree in college (2-year),Yes
+127,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,strongly decreases,1,20,25,3,1,31,Man,"$10,000 to $19,999",Some college but no degree,Yes
+127,speaker,access control,access_mfa,access_none,MFA_none,strongly increases,5,strongly decreases,1,20,25,1,1,31,Man,"$10,000 to $19,999",Some college but no degree,Yes
+127,speaker,purpose,purpose_personal,purpose_money,personal_money,strongly increases,5,slightly decreases,2,25,25,4,2,31,Man,"$10,000 to $19,999",Some college but no degree,Yes
+127,speaker,cloud storage,cloud_none,cloud_identify,none_identify,strongly increases,5,strongly decreases,1,20,25,2,0,31,Man,"$10,000 to $19,999",Some college but no degree,Yes
+127,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,slightly increases,4,strongly decreases,1,25,25,5,2,31,Man,"$10,000 to $19,999",Some college but no degree,Yes
+128,speaker,security update,update_auto,update_none,auto_none,strongly increases,5,not sure,3,10,15,4,2,31,Woman,"$90,000 to $99,999",High school graduate (high school diploma or equivalent including GED),No
+128,speaker,access control,access_mfa,access_none,MFA_none,strongly decreases,1,not sure,3,-15,-10,3,2,31,Woman,"$90,000 to $99,999",High school graduate (high school diploma or equivalent including GED),No
+128,speaker,purpose,purpose_personal,purpose_money,personal_money,no impact,3,not sure,3,5,10,5,1,31,Woman,"$90,000 to $99,999",High school graduate (high school diploma or equivalent including GED),No
+128,speaker,cloud storage,cloud_none,cloud_identify,none_identify,no impact,3,no impact,3,-25,10,2,1,31,Woman,"$90,000 to $99,999",High school graduate (high school diploma or equivalent including GED),No
+128,speaker,data sharing,shared_manufacturer,shared_third,manufact_third,strongly increases,5,slightly decreases,2,10,15,1,2,31,Woman,"$90,000 to $99,999",High school graduate (high school diploma or equivalent including GED),No
+129,speaker,security update,update_manual,update_none,manual_none,slightly increases,4,not sure,3,5,10,3,2,29,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+129,speaker,access control,access_password,access_none,password_none,slightly increases,4,strongly decreases,1,5,20,1,1,29,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+129,speaker,purpose,purpose_main,purpose_money,main_money,no impact,3,not sure,3,5,15,2,2,29,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+129,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,slightly decreases,2,slightly decreases,2,-15,-5,4,1,29,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+129,speaker,data sharing,shared_none,shared_third,none_third,strongly increases,5,strongly decreases,1,5,15,5,2,29,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes
+130,speaker,security update,update_manual,update_none,manual_none,slightly increases,4,strongly decreases,1,15,20,1,2,26,Woman,"$90,000 to $99,999",Bachelor's degree in college (4-year),No
+130,speaker,access control,access_password,access_none,password_none,strongly increases,5,strongly decreases,1,25,25,2,1,26,Woman,"$90,000 to $99,999",Bachelor's degree in college (4-year),No
+130,speaker,purpose,purpose_main,purpose_money,main_money,strongly decreases,1,not sure,3,0,0,4,1,26,Woman,"$90,000 to $99,999",Bachelor's degree in college (4-year),No
+130,speaker,cloud storage,cloud_none,cloud_deidentify,none_deidentify,no impact,3,no impact,3,-15,-10,3,2,26,Woman,"$90,000 to $99,999",Bachelor's degree in college (4-year),No
+130,speaker,data sharing,shared_none,shared_third,none_third,no impact,3,no impact,3,0,25,5,1,26,Woman,"$90,000 to $99,999",Bachelor's degree in college (4-year),No

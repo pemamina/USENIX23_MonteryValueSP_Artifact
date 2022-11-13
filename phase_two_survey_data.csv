@@ -1,0 +1,151 @@
+participant,label_type_comparison,minimum_willingness_to_pay,maximum_willingness_to_pay,Age,Gender,Income,Education,Background in Technology,risk_perception,risk_perception_coded,willingness_to_purchase,willingness_to_purchase_coded
+1,X vs Y,35,45,19,Man,"$100,000 to $149,999",Some college but no degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+1,X vs Z,45,45,19,Man,"$100,000 to $149,999",Some college but no degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+1,Z vs Y,5,25,19,Man,"$100,000 to $149,999",Some college but no degree,Yes,as risky as,3,as willing to purchase Model Z as Model Y,3
+2,X vs Y,20,25,21,Man,"$10,000 to $19,999",Some college but no degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+2,X vs Z,15,25,21,Man,"$10,000 to $19,999",Some college but no degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+2,Z vs Y,10,15,21,Man,"$10,000 to $19,999",Some college but no degree,Yes,as risky as,3,strongly more willing to purchase Model Z than Model Y,5
+3,X vs Y,15,30,26,.,.,.,No,slightly less risky than,2,slightly more willing to purchase Model X than Model Y,4
+3,X vs Z,45,45,26,.,.,.,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+3,Z vs Y,-45,-35,26,.,.,.,No,a lot more risky than,5,strongly less willing to purchase Model Z than Model Y,1
+4,X vs Y,25,30,21,Man,"$40,000 to $49,999",Associate degree in college (2-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+4,X vs Z,15,20,21,Man,"$40,000 to $49,999",Associate degree in college (2-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+4,Z vs Y,-5,45,21,Man,"$40,000 to $49,999",Associate degree in college (2-year),Yes,as risky as,3,as willing to purchase Model Z as Model Y,3
+5,X vs Y,45,45,25,Non-binary,"$60,000 to $69,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+5,X vs Z,45,45,25,Non-binary,"$60,000 to $69,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+5,Z vs Y,-45,-45,25,Non-binary,"$60,000 to $69,999",Bachelor's degree in college (4-year),No,a lot more risky than,5,strongly less willing to purchase Model Z than Model Y,1
+6,X vs Y,20,30,56,Woman,"$30,000 to $39,999",Associate degree in college (2-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+6,X vs Z,45,45,56,Woman,"$30,000 to $39,999",Associate degree in college (2-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+6,Z vs Y,-45,-40,56,Woman,"$30,000 to $39,999",Associate degree in college (2-year),No,slightly more risky than,4,strongly less willing to purchase Model Z than Model Y,1
+7,X vs Y,10,30,48,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+7,X vs Z,45,45,48,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+7,Z vs Y,-45,-5,48,Man,"$100,000 to $149,999",Bachelor's degree in college (4-year),No,slightly more risky than,4,slightly less willing to purchase Model Z than Model Y,2
+8,X vs Y,-45,5,20,Woman,"$70,000 to $79,999",Some college but no degree,No,as risky as,3,as willing to purchase Model X as Model Y,3
+8,X vs Z,-45,5,20,Woman,"$70,000 to $79,999",Some college but no degree,No,as risky as,3,as willing to purchase Model X as Model Z,3
+8,Z vs Y,-45,5,20,Woman,"$70,000 to $79,999",Some college but no degree,No,as risky as,3,as willing to purchase Model Z as Model Y,3
+9,X vs Y,45,45,62,Woman,"$150,000 or more",Doctoral degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+9,X vs Z,45,45,62,Woman,"$150,000 or more",Doctoral degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+9,Z vs Y,-20,45,62,Woman,"$150,000 or more",Doctoral degree,Yes,as risky as,3,as willing to purchase Model Z as Model Y,3
+10,X vs Y,35,40,45,Man,"$90,000 to $99,999",Bachelor's degree in college (4-year),Yes,slightly less risky than,2,strongly more willing to purchase Model X than Model Y,5
+10,X vs Z,45,45,45,Man,"$90,000 to $99,999",Bachelor's degree in college (4-year),Yes,slightly less risky than,2,strongly more willing to purchase Model X than Model Z,5
+10,Z vs Y,-45,0,45,Man,"$90,000 to $99,999",Bachelor's degree in college (4-year),Yes,as risky as,3,strongly less willing to purchase Model Z than Model Y,1
+11,X vs Y,15,20,26,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes,slightly less risky than,2,slightly more willing to purchase Model X than Model Y,4
+11,X vs Z,45,45,26,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+11,Z vs Y,-45,-45,26,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),Yes,slightly more risky than,4,slightly less willing to purchase Model Z than Model Y,2
+12,X vs Y,45,45,69,Man,"$50,000 to $59,999",Some college but no degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+12,X vs Z,45,45,69,Man,"$50,000 to $59,999",Some college but no degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+12,Z vs Y,-45,45,69,Man,"$50,000 to $59,999",Some college but no degree,No,as risky as,3,as willing to purchase Model Z as Model Y,3
+13,X vs Y,45,45,42,Man,"$150,000 or more",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+13,X vs Z,45,45,42,Man,"$150,000 or more",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+13,Z vs Y,-40,-25,42,Man,"$150,000 or more",Bachelor's degree in college (4-year),No,slightly more risky than,4,slightly less willing to purchase Model Z than Model Y,2
+14,X vs Y,15,20,25,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+14,X vs Z,15,20,25,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+14,Z vs Y,-5,45,25,Woman,"$100,000 to $149,999",Bachelor's degree in college (4-year),No,as risky as,3,as willing to purchase Model Z as Model Y,3
+15,X vs Y,15,20,33,Man,"$10,000 to $19,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+15,X vs Z,20,25,33,Man,"$10,000 to $19,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+15,Z vs Y,-45,5,33,Man,"$10,000 to $19,999",Bachelor's degree in college (4-year),No,as risky as,3,as willing to purchase Model Z as Model Y,3
+16,X vs Y,45,45,31,Woman,"$30,000 to $39,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+16,X vs Z,45,45,31,Woman,"$30,000 to $39,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+16,Z vs Y,-45,25,31,Woman,"$30,000 to $39,999",Master's degree,No,as risky as,3,as willing to purchase Model Z as Model Y,3
+17,X vs Y,15,45,54,Woman,"$80,000 to $89,999",Some college but no degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+17,X vs Z,10,45,54,Woman,"$80,000 to $89,999",Some college but no degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+17,Z vs Y,-10,45,54,Woman,"$80,000 to $89,999",Some college but no degree,No,as risky as,3,as willing to purchase Model Z as Model Y,3
+18,X vs Y,15,30,36,Woman,"$30,000 to $39,999",High school graduate (high school diploma or equivalent including GED),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+18,X vs Z,35,40,36,Woman,"$30,000 to $39,999",High school graduate (high school diploma or equivalent including GED),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+18,Z vs Y,-40,-10,36,Woman,"$30,000 to $39,999",High school graduate (high school diploma or equivalent including GED),No,as risky as,3,as willing to purchase Model Z as Model Y,3
+19,X vs Y,25,30,58,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+19,X vs Z,30,45,58,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+19,Z vs Y,-45,15,58,Woman,"$70,000 to $79,999",Bachelor's degree in college (4-year),No,as risky as,3,as willing to purchase Model Z as Model Y,3
+20,X vs Y,45,45,30,Woman,"$150,000 or more",Bachelor's degree in college (4-year),No,as risky as,3,slightly more willing to purchase Model X than Model Y,4
+20,X vs Z,45,45,30,Woman,"$150,000 or more",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+20,Z vs Y,-45,-45,30,Woman,"$150,000 or more",Bachelor's degree in college (4-year),No,a lot more risky than,5,strongly less willing to purchase Model Z than Model Y,1
+21,X vs Y,25,30,26,Woman,"$150,000 or more",Bachelor's degree in college (4-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+21,X vs Z,45,45,26,Woman,"$150,000 or more",Bachelor's degree in college (4-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+21,Z vs Y,-45,-15,26,Woman,"$150,000 or more",Bachelor's degree in college (4-year),Yes,a lot more risky than,5,strongly less willing to purchase Model Z than Model Y,1
+22,X vs Y,45,45,39,Non-binary,"Less than $10,000",Some college but no degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+22,X vs Z,45,45,39,Non-binary,"Less than $10,000",Some college but no degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+22,Z vs Y,-45,-45,39,Non-binary,"Less than $10,000",Some college but no degree,Yes,slightly more risky than,4,slightly less willing to purchase Model Z than Model Y,2
+23,X vs Y,10,20,27,Woman,"Less than $10,000",Some college but no degree,Yes,slightly less risky than,2,strongly more willing to purchase Model X than Model Y,5
+23,X vs Z,15,30,27,Woman,"Less than $10,000",Some college but no degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+23,Z vs Y,-5,0,27,Woman,"Less than $10,000",Some college but no degree,Yes,as risky as,3,as willing to purchase Model Z as Model Y,3
+24,X vs Y,45,45,23,Man,"$40,000 to $49,999",Some college but no degree,No,a lot less risky than,1,slightly more willing to purchase Model X than Model Y,4
+24,X vs Z,0,45,23,Man,"$40,000 to $49,999",Some college but no degree,No,a lot less risky than,1,slightly more willing to purchase Model X than Model Z,4
+24,Z vs Y,-45,0,23,Man,"$40,000 to $49,999",Some college but no degree,No,a lot less risky than,1,strongly less willing to purchase Model Z than Model Y,1
+25,X vs Y,10,15,21,Man,"$100,000 to $149,999",High school graduate (high school diploma or equivalent including GED),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+25,X vs Z,45,45,21,Man,"$100,000 to $149,999",High school graduate (high school diploma or equivalent including GED),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+25,Z vs Y,-45,-45,21,Man,"$100,000 to $149,999",High school graduate (high school diploma or equivalent including GED),Yes,slightly more risky than,4,strongly less willing to purchase Model Z than Model Y,1
+26,X vs Y,45,45,42,Woman,"$40,000 to $49,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+26,X vs Z,45,45,42,Woman,"$40,000 to $49,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+26,Z vs Y,-45,-5,42,Woman,"$40,000 to $49,999",Master's degree,No,as risky as,3,slightly less willing to purchase Model Z than Model Y,2
+27,X vs Y,5,20,45,Man,"$80,000 to $89,999",Master's degree,No,a lot more risky than,5,slightly more willing to purchase Model X than Model Y,4
+27,X vs Z,45,45,45,Man,"$80,000 to $89,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+27,Z vs Y,-45,-45,45,Man,"$80,000 to $89,999",Master's degree,No,a lot more risky than,5,strongly less willing to purchase Model Z than Model Y,1
+28,X vs Y,5,20,25,Woman,"$20,000 to $29,999",Bachelor's degree in college (4-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+28,X vs Z,15,25,25,Woman,"$20,000 to $29,999",Bachelor's degree in college (4-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+28,Z vs Y,-15,-10,25,Woman,"$20,000 to $29,999",Bachelor's degree in college (4-year),Yes,slightly more risky than,4,slightly less willing to purchase Model Z than Model Y,2
+29,X vs Y,45,45,30,Man,"Less than $10,000",Bachelor's degree in college (4-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+29,X vs Z,45,45,30,Man,"Less than $10,000",Bachelor's degree in college (4-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+29,Z vs Y,-45,45,30,Man,"Less than $10,000",Bachelor's degree in college (4-year),Yes,a lot more risky than,5,as willing to purchase Model Z as Model Y,3
+30,X vs Y,45,45,21,Man,"$50,000 to $59,999",Associate degree in college (2-year),Yes,a lot less risky than,1,slightly more willing to purchase Model X than Model Y,4
+30,X vs Z,0,0,21,Man,"$50,000 to $59,999",Associate degree in college (2-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+30,Z vs Y,-45,-45,21,Man,"$50,000 to $59,999",Associate degree in college (2-year),Yes,a lot more risky than,5,strongly less willing to purchase Model Z than Model Y,1
+31,X vs Y,45,45,42,Woman,"$60,000 to $69,999",Some college but no degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+31,X vs Z,45,45,42,Woman,"$60,000 to $69,999",Some college but no degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+31,Z vs Y,-45,-10,42,Woman,"$60,000 to $69,999",Some college but no degree,No,as risky as,3,as willing to purchase Model Z as Model Y,3
+32,X vs Y,45,45,33,Woman,"$30,000 to $39,999",Associate degree in college (2-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+32,X vs Z,45,45,33,Woman,"$30,000 to $39,999",Associate degree in college (2-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+32,Z vs Y,-45,45,33,Woman,"$30,000 to $39,999",Associate degree in college (2-year),No,as risky as,3,as willing to purchase Model Z as Model Y,3
+33,X vs Y,35,45,45,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+33,X vs Z,35,45,45,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+33,Z vs Y,5,30,45,Man,"$60,000 to $69,999",Bachelor's degree in college (4-year),Yes,as risky as,3,slightly more willing to purchase Model Z than Model Y,4
+34,X vs Y,10,15,21,Man,.,Some college but no degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+34,X vs Z,45,45,21,Man,.,Some college but no degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+34,Z vs Y,-45,-45,21,Man,.,Some college but no degree,Yes,slightly more risky than,4,strongly less willing to purchase Model Z than Model Y,1
+35,X vs Y,45,45,32,Woman,"$150,000 or more",Bachelor's degree in college (4-year),No,as risky as,3,strongly more willing to purchase Model X than Model Y,5
+35,X vs Z,45,45,32,Woman,"$150,000 or more",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+35,Z vs Y,-45,45,32,Woman,"$150,000 or more",Bachelor's degree in college (4-year),No,as risky as,3,as willing to purchase Model Z as Model Y,3
+36,X vs Y,45,45,24,Woman,.,Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+36,X vs Z,45,45,24,Woman,.,Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+36,Z vs Y,-10,45,24,Woman,.,Bachelor's degree in college (4-year),No,as risky as,3,as willing to purchase Model Z as Model Y,3
+37,X vs Y,25,40,31,Non-binary,"$80,000 to $89,999",Some college but no degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+37,X vs Z,30,45,31,Non-binary,"$80,000 to $89,999",Some college but no degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+37,Z vs Y,-20,45,31,Non-binary,"$80,000 to $89,999",Some college but no degree,Yes,slightly more risky than,4,as willing to purchase Model Z as Model Y,3
+38,X vs Y,45,45,35,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+38,X vs Z,45,45,35,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+38,Z vs Y,-45,0,35,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No,as risky as,3,as willing to purchase Model Z as Model Y,3
+39,X vs Y,45,45,51,Man,"$20,000 to $29,999",Master's degree,Yes,as risky as,3,strongly more willing to purchase Model X than Model Y,5
+39,X vs Z,45,45,51,Man,"$20,000 to $29,999",Master's degree,Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+39,Z vs Y,-45,-45,51,Man,"$20,000 to $29,999",Master's degree,Yes,as risky as,3,as willing to purchase Model Z as Model Y,3
+40,X vs Y,35,40,26,Man,"$100,000 to $149,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+40,X vs Z,45,45,26,Man,"$100,000 to $149,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+40,Z vs Y,-45,-45,26,Man,"$100,000 to $149,999",Master's degree,No,slightly more risky than,4,slightly less willing to purchase Model Z than Model Y,2
+41,X vs Y,25,45,25,Man,"$30,000 to $39,999",Master's degree,No,slightly less risky than,2,slightly more willing to purchase Model X than Model Y,4
+41,X vs Z,45,45,25,Man,"$30,000 to $39,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+41,Z vs Y,-45,-45,25,Man,"$30,000 to $39,999",Master's degree,No,a lot more risky than,5,strongly less willing to purchase Model Z than Model Y,1
+42,X vs Y,45,45,20,Woman,"$20,000 to $29,999",Some college but no degree,No,slightly less risky than,2,strongly more willing to purchase Model X than Model Y,5
+42,X vs Z,45,45,20,Woman,"$20,000 to $29,999",Some college but no degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+42,Z vs Y,-45,0,20,Woman,"$20,000 to $29,999",Some college but no degree,No,slightly more risky than,4,strongly less willing to purchase Model Z than Model Y,1
+43,X vs Y,45,45,28,Man,"$50,000 to $59,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+43,X vs Z,45,45,28,Man,"$50,000 to $59,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+43,Z vs Y,-45,-40,28,Man,"$50,000 to $59,999",Bachelor's degree in college (4-year),No,as risky as,3,as willing to purchase Model Z as Model Y,3
+44,X vs Y,40,45,52,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+44,X vs Z,35,45,52,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+44,Z vs Y,-45,45,52,Man,"$30,000 to $39,999",Bachelor's degree in college (4-year),Yes,slightly more risky than,4,as willing to purchase Model Z as Model Y,3
+45,X vs Y,45,45,39,Man,"$100,000 to $149,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+45,X vs Z,45,45,39,Man,"$100,000 to $149,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+45,Z vs Y,-45,-15,39,Man,"$100,000 to $149,999",Master's degree,No,as risky as,3,slightly less willing to purchase Model Z than Model Y,2
+46,X vs Y,25,30,19,Woman,"$90,000 to $99,999",High school graduate (high school diploma or equivalent including GED),No,a lot less risky than,1,slightly more willing to purchase Model X than Model Y,4
+46,X vs Z,25,30,19,Woman,"$90,000 to $99,999",High school graduate (high school diploma or equivalent including GED),No,a lot less risky than,1,slightly more willing to purchase Model X than Model Z,4
+46,Z vs Y,15,30,19,Woman,"$90,000 to $99,999",High school graduate (high school diploma or equivalent including GED),No,a lot less risky than,1,slightly more willing to purchase Model Z than Model Y,4
+47,X vs Y,45,45,45,Man,"$30,000 to $39,999",Some college but no degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+47,X vs Z,45,45,45,Man,"$30,000 to $39,999",Some college but no degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+47,Z vs Y,-45,45,45,Man,"$30,000 to $39,999",Some college but no degree,No,as risky as,3,as willing to purchase Model Z as Model Y,3
+48,X vs Y,25,30,57,Woman,"$50,000 to $59,999",Some college but no degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+48,X vs Z,45,45,57,Woman,"$50,000 to $59,999",Some college but no degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+48,Z vs Y,-40,-35,57,Woman,"$50,000 to $59,999",Some college but no degree,No,a lot more risky than,5,strongly less willing to purchase Model Z than Model Y,1
+49,X vs Y,35,40,62,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+49,X vs Z,45,45,62,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+49,Z vs Y,-45,0,62,Woman,"$30,000 to $39,999",Bachelor's degree in college (4-year),No,as risky as,3,as willing to purchase Model Z as Model Y,3
+50,X vs Y,25,30,60,Man,"$80,000 to $89,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Y,5
+50,X vs Z,25,30,60,Man,"$80,000 to $89,999",Master's degree,No,a lot less risky than,1,strongly more willing to purchase Model X than Model Z,5
+50,Z vs Y,0,5,60,Man,"$80,000 to $89,999",Master's degree,No,slightly less risky than,2,slightly more willing to purchase Model Z than Model Y,4
