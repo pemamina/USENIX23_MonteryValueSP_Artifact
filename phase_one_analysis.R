@@ -1,4 +1,5 @@
-## Loading the required library for regression analysis
+## Installing and loading the required library for regression analysis
+install.packages("ordinal")
 library(ordinal)
 
 ## Loading the survey data
